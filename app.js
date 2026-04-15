@@ -945,16 +945,20 @@ function showHelp() {
           <h3>🎯 クイズの始め方</h3>
           <ol>
             <li><strong>級を選択</strong>：英検2級・準1級から選ぶ</li>
-            <li><strong>出題範囲を絞る</strong>（任意）：「単語 1-100」などセクションをタップして選択</li>
-            <li><strong>単語ID指定</strong>（任意）：単語の番号で範囲を指定（例: 1 〜 200）</li>
-            <li><strong>クイズ開始</strong>をタップ！</li>
+            <li><strong>マラソン進捗</strong>を確認：達成率と正答率が表示されます</li>
+            <li><strong>出題範囲</strong>（任意）：単語IDと熟語IDで範囲を指定
+              <br>例：単語 1〜100、熟語 1〜50
+              <br>※ 空欄なら全範囲が対象</li>
+            <li><strong>問題数・出題順</strong>を設定</li>
+            <li><strong>🚀 クイズ開始</strong>をタップ！</li>
           </ol>
         </div>
 
         <div class="help-section">
           <h3>❓ クイズ画面の操作</h3>
           <ul>
-            <li><strong>4つの選択肢</strong>から正しい答えを選ぶ</li>
+            <li><strong>単語問題</strong>：例文の空欄に入る単語を4択から選ぶ</li>
+            <li><strong>熟語問題</strong>：例文の空欄に入るイディオムを4択から選ぶ</li>
             <li><strong>💡 ヒントボタン</strong>をタップすると：
               <br>① 例文の日本語訳が表示
               <br>② 選択肢の日本語訳が表示</li>
@@ -964,11 +968,22 @@ function showHelp() {
         </div>
 
         <div class="help-section">
-          <h3>📊 結果画面</h3>
+          <h3>🏃 マラソン進捗</h3>
           <ul>
-            <li><strong>🔄 もう一度</strong>：同じ設定で再チャレンジ</li>
-            <li><strong>📝 間違えた問題だけ</strong>：ミスした問題だけで復習</li>
-            <li><strong>🏠 ホームへ</strong>：設定画面に戻る</li>
+            <li><strong>達成率</strong>：正解した問題の割合（単語・熟語の内訳付き）</li>
+            <li><strong>累計正答率</strong>：全解答の正答率</li>
+            <li>正解した問題は<strong>クリア済み</strong>として記録されます</li>
+            <li>進捗はブラウザに自動保存されます</li>
+          </ul>
+        </div>
+
+        <div class="help-section">
+          <h3>📝 ミス問題の復習</h3>
+          <ul>
+            <li>間違えた問題は<strong>ミス履歴</strong>に自動保存</li>
+            <li>ホーム画面の<strong>「ミスした問題を復習」</strong>ボタンから復習</li>
+            <li>100語単位のID範囲で選んで復習できます</li>
+            <li>復習で正解するとミス履歴から削除されます</li>
           </ul>
         </div>
 
