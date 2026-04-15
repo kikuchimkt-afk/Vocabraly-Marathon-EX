@@ -1,0 +1,3922 @@
+[
+  {
+    "rank": 1,
+    "english": "do away with ~",
+    "meanings": "〜を廃止する／取り除く",
+    "example": "We should do away with unnecessary rules.",
+    "exampleJa": "私たちは不必要な規則を廃止すべきだ。"
+  },
+  {
+    "rank": 2,
+    "english": "in vain",
+    "meanings": "むだに／むなしく",
+    "example": "All their efforts to save the company were in vain.",
+    "exampleJa": "会社を救うための彼らの努力はすべてむなしかった。"
+  },
+  {
+    "rank": 3,
+    "english": "work out",
+    "meanings": "うまくいく／解決する／（答えを）考え出す／運動する",
+    "example": "Don't worry, I'm sure things will work out.",
+    "exampleJa": "心配しないで、きっとうまくいくよ。"
+  },
+  {
+    "rank": 4,
+    "english": "think over",
+    "meanings": "よく考える／じっくり検討する",
+    "example": "Please think over my proposal carefully.",
+    "exampleJa": "私の提案をじっくり検討してください。"
+  },
+  {
+    "rank": 5,
+    "english": "take after ~",
+    "meanings": "〜に似ている（家族など）",
+    "example": "He takes after his mother in personality.",
+    "exampleJa": "彼は性格が母親に似ている。"
+  },
+  {
+    "rank": 6,
+    "english": "be in charge of ~",
+    "meanings": "〜を担当している／～の責任者である",
+    "example": "She is in charge of the marketing department.",
+    "exampleJa": "彼女はマーケティング部門を担当している。"
+  },
+  {
+    "rank": 7,
+    "english": "cope with ~",
+    "meanings": "〜に対処する／切り抜ける",
+    "example": "It is important to learn how to cope with stress.",
+    "exampleJa": "ストレスに対処する方法を学ぶことは重要だ。"
+  },
+  {
+    "rank": 8,
+    "english": "insist on ~",
+    "meanings": "〜を強く主張する／〜にこだわる",
+    "example": "She insisted on paying for dinner herself.",
+    "exampleJa": "彼女は夕食代を自分で払うと強く主張した。"
+  },
+  {
+    "rank": 9,
+    "english": "in the meantime",
+    "meanings": "その間に／一方で",
+    "example": "The train is delayed; in the meantime, let's get coffee.",
+    "exampleJa": "電車が遅れている。その間にコーヒーを飲もう。"
+  },
+  {
+    "rank": 10,
+    "english": "turn down",
+    "meanings": "断る／（音量などを）下げる",
+    "example": "He turned down the job offer from the company.",
+    "exampleJa": "彼はその会社からの求人オファーを断った。"
+  },
+  {
+    "rank": 11,
+    "english": "refrain from ~",
+    "meanings": "〜を控える／〜するのを慎む",
+    "example": "Please refrain from talking during the movie.",
+    "exampleJa": "映画鑑賞中は話すのを慎んでください。"
+  },
+  {
+    "rank": 12,
+    "english": "by way of ~",
+    "meanings": "〜経由で／〜として（のつもりで）",
+    "example": "We went to Sapporo by way of Sendai.",
+    "exampleJa": "私たちは仙台経由で札幌へ行った。"
+  },
+  {
+    "rank": 13,
+    "english": "be accustomed to ~",
+    "meanings": "〜に慣れている",
+    "example": "I am accustomed to the cold weather now.",
+    "exampleJa": "私は今、寒い気候に慣れている。"
+  },
+  {
+    "rank": 14,
+    "english": "a wide range of ~",
+    "meanings": "幅広い〜／多種多様な〜",
+    "example": "This library offers a wide range of books.",
+    "exampleJa": "この図書館は幅広い種類の本を提供している。"
+  },
+  {
+    "rank": 15,
+    "english": "end up doing",
+    "meanings": "結局〜することになる",
+    "example": "We ended up eating pizza for dinner.",
+    "exampleJa": "私たちは結局、夕食にピザを食べることになった。"
+  },
+  {
+    "rank": 16,
+    "english": "so as to do",
+    "meanings": "〜するために",
+    "example": "He studied hard so as to pass the exam.",
+    "exampleJa": "彼は試験に合格するために一生懸命勉強した。"
+  },
+  {
+    "rank": 17,
+    "english": "break into ~",
+    "meanings": "〜に押し入る／急に〜しだす",
+    "example": "A burglar tried to break into our house last night.",
+    "exampleJa": "昨夜、泥棒が私たちの家に押し入ろうとした。"
+  },
+  {
+    "rank": 18,
+    "english": "even if ...",
+    "meanings": "たとえ...でも",
+    "example": "Even if it rains, we will go for a walk.",
+    "exampleJa": "たとえ雨が降っても、私たちは散歩に行くつもりだ。"
+  },
+  {
+    "rank": 19,
+    "english": "amount to ~",
+    "meanings": "合計〜になる／結局〜ということになる",
+    "example": "The total expenses will amount to 5,000 yen.",
+    "exampleJa": "総費用は5,000円になるだろう。"
+  },
+  {
+    "rank": 20,
+    "english": "in person",
+    "meanings": "本人が直接／自ら",
+    "example": "You need to submit the application in person.",
+    "exampleJa": "その申請書は本人が直接提出する必要があります。"
+  },
+  {
+    "rank": 21,
+    "english": "There is no doing",
+    "meanings": "〜することはできない／〜するなんてありえない",
+    "example": "There is no knowing what will happen tomorrow.",
+    "exampleJa": "明日何が起こるかは誰にもわからない。"
+  },
+  {
+    "rank": 22,
+    "english": "no less than ~",
+    "meanings": "〜もの（多さ・意外さを強調）",
+    "example": "He ate no less than five hamburgers.",
+    "exampleJa": "彼はハンバーガーを5つも食べた。"
+  },
+  {
+    "rank": 23,
+    "english": "find it ~ that ...",
+    "meanings": "...ということを〜だと感じる／思う",
+    "example": "I find it strange that he didn't call me back.",
+    "exampleJa": "彼が私に折り返しの電話をしなかったのは奇妙だと思う。"
+  },
+  {
+    "rank": 24,
+    "english": "for nothing",
+    "meanings": "ただで／むだに／理由もなく",
+    "example": "All his hard work went for nothing.",
+    "exampleJa": "彼の懸命な努力はすべて無駄になった。"
+  },
+  {
+    "rank": 25,
+    "english": "a great deal of ~",
+    "meanings": "たくさんの〜（量）",
+    "example": "We need a great deal of time to finish this project.",
+    "exampleJa": "このプロジェクトを終えるにはたくさんの時間が必要だ。"
+  },
+  {
+    "rank": 26,
+    "english": "pick out",
+    "meanings": "選び出す／見分ける",
+    "example": "I picked out a nice dress for the party.",
+    "exampleJa": "私はパーティーのために素敵なドレスを選び出した。"
+  },
+  {
+    "rank": 27,
+    "english": "as if ...",
+    "meanings": "まるで...かのように",
+    "example": "He acted as if he knew everything.",
+    "exampleJa": "彼はまるで全てを知っているかのように振る舞った。"
+  },
+  {
+    "rank": 28,
+    "english": "do harm",
+    "meanings": "害を与える",
+    "example": "Smoking can do harm to your health.",
+    "exampleJa": "喫煙はあなたの健康に害を与える可能性がある。"
+  },
+  {
+    "rank": 29,
+    "english": "come to an end",
+    "meanings": "終わる／終わりを迎える",
+    "example": "The long meeting finally came to an end.",
+    "exampleJa": "長い会議がようやく終わりを迎えた。"
+  },
+  {
+    "rank": 30,
+    "english": "no more than 〜",
+    "meanings": "たった〜／〜にすぎない",
+    "example": "She has no more than two books.",
+    "exampleJa": "彼女はたった2冊しか本を持っていません。"
+  },
+  {
+    "rank": 31,
+    "english": "drop off",
+    "meanings": "降ろす／少しずつ減る／居眠りする",
+    "example": "Can you drop me off at the station?",
+    "exampleJa": "駅で私を降ろしてもらえますか？"
+  },
+  {
+    "rank": 32,
+    "english": "stare at 〜",
+    "meanings": "〜をじっと見つめる",
+    "example": "Don't stare at strangers; it's rude.",
+    "exampleJa": "見知らぬ人をじっと見つめてはいけません。失礼ですよ。"
+  },
+  {
+    "rank": 33,
+    "english": "be in demand",
+    "meanings": "需要がある／人気がある",
+    "example": "Organic vegetables are now in high demand.",
+    "exampleJa": "有機野菜は今、非常に需要が高い。"
+  },
+  {
+    "rank": 34,
+    "english": "It's time ...",
+    "meanings": "そろそろ...してよいころだ／もう...してもいい時期だ",
+    "example": "It's time to go home.",
+    "exampleJa": "そろそろ家に帰る時間です。"
+  },
+  {
+    "rank": 35,
+    "english": "look up to 〜",
+    "meanings": "〜を尊敬する",
+    "example": "I really look up to my older sister.",
+    "exampleJa": "私は姉を本当に尊敬しています。"
+  },
+  {
+    "rank": 36,
+    "english": "for the benefit of 〜",
+    "meanings": "〜のために／〜の利益のために",
+    "example": "We work for the benefit of all citizens.",
+    "exampleJa": "私たちは全ての市民の利益のために働きます。"
+  },
+  {
+    "rank": 37,
+    "english": "hand down",
+    "meanings": "伝える／（次の世代に）受け継がせる",
+    "example": "This tradition has been handed down for centuries.",
+    "exampleJa": "この伝統は何世紀にもわたって伝えられてきた。"
+  },
+  {
+    "rank": 38,
+    "english": "charge A with B",
+    "meanings": "AをB（罪・責任）で告発する／責める",
+    "example": "They charged him with stealing money.",
+    "exampleJa": "彼らは彼を金を盗んだ罪で告発した。"
+  },
+  {
+    "rank": 39,
+    "english": "in terms of 〜",
+    "meanings": "〜の観点から／〜の面で",
+    "example": "In terms of cost, this plan is better.",
+    "exampleJa": "コストの観点から見ると、この計画の方が良いです。"
+  },
+  {
+    "rank": 40,
+    "english": "come to do",
+    "meanings": "〜するようになる",
+    "example": "I came to understand the problem.",
+    "exampleJa": "私はその問題を理解するようになった。"
+  },
+  {
+    "rank": 41,
+    "english": "be independent of 〜",
+    "meanings": "〜から自立している／〜に依存していない",
+    "example": "She wants to be independent of her parents.",
+    "exampleJa": "彼女は両親から自立したいと思っている。"
+  },
+  {
+    "rank": 42,
+    "english": "take it for granted that ...",
+    "meanings": "...を当然のことだと思う",
+    "example": "We shouldn't take it for granted that we have peace.",
+    "exampleJa": "私たちは平和があることを当然のことと思ってはいけない。"
+  },
+  {
+    "rank": 43,
+    "english": "Little did A know that ...",
+    "meanings": "Aは...とは少しも思っていなかった",
+    "example": "Little did I know that she was leaving.",
+    "exampleJa": "彼女が去るとは私は少しも思っていなかった。"
+  },
+  {
+    "rank": 44,
+    "english": "urge A to do",
+    "meanings": "Aに〜するよう強く促す",
+    "example": "The teacher urged students to study harder.",
+    "exampleJa": "先生は生徒たちにもっと熱心に勉強するよう強く促した。"
+  },
+  {
+    "rank": 45,
+    "english": "rely on 〜",
+    "meanings": "〜に頼る／〜をあてにする",
+    "example": "You should not always rely on others.",
+    "exampleJa": "いつも他人に頼るべきではありません。"
+  },
+  {
+    "rank": 46,
+    "english": "take over",
+    "meanings": "引き継ぐ／引き取る／乗っ取る",
+    "example": "My son will take over the family business.",
+    "exampleJa": "私の息子が家業を引き継ぐだろう。"
+  },
+  {
+    "rank": 47,
+    "english": "in advance",
+    "meanings": "前もって／事前に",
+    "example": "Please book your tickets in advance.",
+    "exampleJa": "チケットは前もって予約してください。"
+  },
+  {
+    "rank": 48,
+    "english": "be capable of 〜",
+    "meanings": "〜する能力がある",
+    "example": "Humans are capable of learning new things.",
+    "exampleJa": "人間は新しいことを学ぶ能力がある。"
+  },
+  {
+    "rank": 49,
+    "english": "refer to 〜",
+    "meanings": "〜に言及する／〜を指す／〜を参照する",
+    "example": "This word refers to a specific type of plant.",
+    "exampleJa": "この言葉は特定の種類の植物を指します。"
+  },
+  {
+    "rank": 50,
+    "english": "use up",
+    "meanings": "使い果たす",
+    "example": "We must not use up all our natural resources.",
+    "exampleJa": "私たちは全ての天然資源を使い果たしてはならない。"
+  },
+  {
+    "rank": 51,
+    "english": "bring out",
+    "meanings": "引き出す／出版する／発売する／目立たせる",
+    "example": "Her new dress brings out the color of her eyes.",
+    "exampleJa": "彼女の新しいドレスは、彼女の目の色を引き立てている。"
+  },
+  {
+    "rank": 52,
+    "english": "by means of 〜",
+    "meanings": "〜によって／〜という手段で",
+    "example": "We communicate by means of email and video calls.",
+    "exampleJa": "私たちはEメールとビデオ通話によってコミュニケーションをとる。"
+  },
+  {
+    "rank": 53,
+    "english": "call off",
+    "meanings": "中止する／取り消す",
+    "example": "They had to call off the game due to bad weather.",
+    "exampleJa": "彼らは悪天候のため、試合を中止しなければならなかった。"
+  },
+  {
+    "rank": 54,
+    "english": "by no means",
+    "meanings": "決して〜ない",
+    "example": "This problem is by no means easy to solve.",
+    "exampleJa": "この問題は決して解決するのが簡単ではない。"
+  },
+  {
+    "rank": 55,
+    "english": "for fear of 〜",
+    "meanings": "〜を恐れて／〜しないように",
+    "example": "She spoke quietly for fear of waking the baby.",
+    "exampleJa": "彼女は赤ちゃんを起こさないように、静かに話した。"
+  },
+  {
+    "rank": 56,
+    "english": "to some extent",
+    "meanings": "ある程度は",
+    "example": "His success is, to some extent, due to hard work.",
+    "exampleJa": "彼の成功はある程度、努力によるものだ。"
+  },
+  {
+    "rank": 57,
+    "english": "go by",
+    "meanings": "（時間が）過ぎる／〜という名で通っている",
+    "example": "Time goes by so fast when you are having fun.",
+    "exampleJa": "楽しい時は、時間がとても早く過ぎる。"
+  },
+  {
+    "rank": 58,
+    "english": "account for 〜",
+    "meanings": "〜を説明する／〜（割合）を占める",
+    "example": "The new policy accounts for the recent sales increase.",
+    "exampleJa": "その新しい方針が最近の売上増加を説明している。"
+  },
+  {
+    "rank": 59,
+    "english": "at heart",
+    "meanings": "心の中では／本心は",
+    "example": "He seems serious, but he is kind at heart.",
+    "exampleJa": "彼は真面目そうに見えるが、本心は優しい。"
+  },
+  {
+    "rank": 60,
+    "english": "keep off 〜",
+    "meanings": "〜に近づかない／〜を避ける／〜を控える",
+    "example": "Please keep off the grass in the park.",
+    "exampleJa": "公園の芝生には近づかないでください。"
+  },
+  {
+    "rank": 61,
+    "english": "even though ...",
+    "meanings": "...だけれども／...にもかかわらず",
+    "example": "Even though it rained, we still enjoyed our picnic.",
+    "exampleJa": "雨が降っていたけれども、私たちはピクニックを楽しんだ。"
+  },
+  {
+    "rank": 62,
+    "english": "get along",
+    "meanings": "うまくやっていく／仲良くやる／暮らしていく",
+    "example": "I hope we can all get along well together.",
+    "exampleJa": "私たちがみんなで仲良くやっていけることを願っています。"
+  },
+  {
+    "rank": 63,
+    "english": "pay attention",
+    "meanings": "注意を払う",
+    "example": "Students should pay attention to the teacher's words.",
+    "exampleJa": "生徒は先生の言葉に注意を払うべきだ。"
+  },
+  {
+    "rank": 64,
+    "english": "up to 〜",
+    "meanings": "〜まで／〜次第で／〜の責任で",
+    "example": "It's up to you to choose your future path.",
+    "exampleJa": "あなたの将来の道を選ぶのはあなた次第です。"
+  },
+  {
+    "rank": 65,
+    "english": "tend to do",
+    "meanings": "〜する傾向がある",
+    "example": "People tend to eat more when they are stressed.",
+    "exampleJa": "人々はストレスを感じると、より多く食べる傾向がある。"
+  },
+  {
+    "rank": 66,
+    "english": "stick to 〜",
+    "meanings": "〜にくっつく／〜にこだわる／〜を守る",
+    "example": "You should stick to your decision once you make it.",
+    "exampleJa": "一度決めたら、その決定にこだわるべきだ。"
+  },
+  {
+    "rank": 67,
+    "english": "try out",
+    "meanings": "試してみる／試用する／オーディションする",
+    "example": "I want to try out the new restaurant tonight.",
+    "exampleJa": "今夜、あの新しいレストランを試してみたい。"
+  },
+  {
+    "rank": 68,
+    "english": "make up for 〜",
+    "meanings": "〜を埋め合わせる／取り戻す",
+    "example": "I will make up for lost time by working hard.",
+    "exampleJa": "一生懸命働くことで、失われた時間を取り戻します。"
+  },
+  {
+    "rank": 69,
+    "english": "make a difference",
+    "meanings": "違いを生む／役に立つ",
+    "example": "Your small actions can make a big difference.",
+    "exampleJa": "あなたの小さな行動が大きな違いを生むことができる。"
+  },
+  {
+    "rank": 70,
+    "english": "by far",
+    "meanings": "はるかに／ずっと",
+    "example": "This is by far the best book I've ever read.",
+    "exampleJa": "これは私が今まで読んだ中で断然最高の作品だ。"
+  },
+  {
+    "rank": 71,
+    "english": "at present",
+    "meanings": "現在は／今のところ",
+    "example": "At present, she is studying abroad in Canada.",
+    "exampleJa": "現在、彼女はカナダに留学している。"
+  },
+  {
+    "rank": 72,
+    "english": "on the contrary",
+    "meanings": "それどころかむしろ／反対に",
+    "example": "He is not lazy; on the contrary, he works very hard.",
+    "exampleJa": "彼は怠け者ではない。それどころか、彼はとてもよく働く。"
+  },
+  {
+    "rank": 73,
+    "english": "for sure",
+    "meanings": "確かに／間違いなく",
+    "example": "I can tell you for sure that he will come.",
+    "exampleJa": "彼が来ることは間違いなく言える。"
+  },
+  {
+    "rank": 74,
+    "english": "count on 〜",
+    "meanings": "〜を当てにする／〜に頼る",
+    "example": "You can always count on me for help.",
+    "exampleJa": "困った時はいつでも私を頼っていいよ。"
+  },
+  {
+    "rank": 75,
+    "english": "give off 〜",
+    "meanings": "（光・熱・においなど）〜を発する",
+    "example": "The flowers give off a wonderful sweet smell.",
+    "exampleJa": "その花は素晴らしい甘い香りを放っている。"
+  },
+  {
+    "rank": 76,
+    "english": "carry on",
+    "meanings": "続ける／続けていく",
+    "example": "We must carry on our efforts to protect the environment.",
+    "exampleJa": "私たちは環境を守る努力を続けなければなりません。"
+  },
+  {
+    "rank": 77,
+    "english": "from time to time",
+    "meanings": "時々／ときおり",
+    "example": "I like to visit art museums from time to time.",
+    "exampleJa": "私は時々美術館を訪れるのが好きです。"
+  },
+  {
+    "rank": 78,
+    "english": "stand out",
+    "meanings": "目立つ／際立つ",
+    "example": "His bright red jacket made him stand out in the crowd.",
+    "exampleJa": "彼の明るい赤いジャケットは、彼を群衆の中で目立たせた。"
+  },
+  {
+    "rank": 79,
+    "english": "live on 〜",
+    "meanings": "〜で生活する／〜を常食とする／〜に頼って生きる",
+    "example": "Many people in the village live on rice and vegetables.",
+    "exampleJa": "その村の多くの人々は米と野菜で生活しています。"
+  },
+  {
+    "rank": 80,
+    "english": "shut off",
+    "meanings": "遮断する／止める／締め出す",
+    "example": "Please shut off the lights when you leave the room.",
+    "exampleJa": "部屋を出るときは明かりを消してください。"
+  },
+  {
+    "rank": 81,
+    "english": "find out",
+    "meanings": "知る／突き止める／分かる",
+    "example": "I want to find out more about ancient Japanese culture.",
+    "exampleJa": "私は古代日本の文化についてもっと知りたいです。"
+  },
+  {
+    "rank": 82,
+    "english": "be particular about 〜",
+    "meanings": "〜にうるさい／〜にこだわる",
+    "example": "My sister is particular about the clothes she wears.",
+    "exampleJa": "私の姉は着る服にこだわります。"
+  },
+  {
+    "rank": 83,
+    "english": "at one's best",
+    "meanings": "最高の状態で／ベストなときの",
+    "example": "The athlete performs at his best during important games.",
+    "exampleJa": "その選手は重要な試合で最高のパフォーマンスを発揮します。"
+  },
+  {
+    "rank": 84,
+    "english": "be ashamed of 〜",
+    "meanings": "〜を恥ずかしく思う",
+    "example": "He was ashamed of his mistakes and apologized to everyone.",
+    "exampleJa": "彼は自分の間違いを恥じて、みんなに謝罪しました。"
+  },
+  {
+    "rank": 85,
+    "english": "on the go",
+    "meanings": "とても忙しく動き回って／常に活動中で",
+    "example": "My mother is always on the go, managing her business and family.",
+    "exampleJa": "私の母は、仕事と家庭を両立させ、常に忙しく動き回っています。"
+  },
+  {
+    "rank": 86,
+    "english": "out of date",
+    "meanings": "時代遅れの／期限切れの",
+    "example": "This computer software is out of date and needs an update.",
+    "exampleJa": "このコンピュータソフトウェアは時代遅れで、アップデートが必要です。"
+  },
+  {
+    "rank": 87,
+    "english": "by degrees",
+    "meanings": "徐々に／だんだんと",
+    "example": "The students understood the difficult concept by degrees.",
+    "exampleJa": "学生たちはその難しい概念を徐々に理解しました。"
+  },
+  {
+    "rank": 88,
+    "english": "on the spot",
+    "meanings": "その場で／即座に",
+    "example": "The police officer arrested the suspect on the spot.",
+    "exampleJa": "警察官はその場で容疑者を逮捕しました。"
+  },
+  {
+    "rank": 89,
+    "english": "behind A's back",
+    "meanings": "Aのいないところで／Aに隠れて",
+    "example": "It's not good to talk about someone behind their back.",
+    "exampleJa": "誰かのいないところで話すのは良くありません。"
+  },
+  {
+    "rank": 90,
+    "english": "on account of 〜",
+    "meanings": "〜の理由で／〜のために",
+    "example": "The game was cancelled on account of the heavy rain.",
+    "exampleJa": "大雨のために試合は中止になりました。"
+  },
+  {
+    "rank": 91,
+    "english": "by heart",
+    "meanings": "暗記して／そらで",
+    "example": "She learned the entire poem by heart for the contest.",
+    "exampleJa": "彼女はコンテストのために詩全体を暗記しました。"
+  },
+  {
+    "rank": 92,
+    "english": "be obliged to do",
+    "meanings": "やむをえず〜する／〜せざるをえない",
+    "example": "We were obliged to change our plans due to bad weather.",
+    "exampleJa": "悪天候のため、私たちはやむをえず計画を変更しました。"
+  },
+  {
+    "rank": 93,
+    "english": "make sure of 〜",
+    "meanings": "〜を確かめる／〜を確実にする",
+    "example": "Please make sure of the train schedule before you leave.",
+    "exampleJa": "出発する前に電車の時刻を確かめてください。"
+  },
+  {
+    "rank": 94,
+    "english": "head for 〜",
+    "meanings": "〜へ向かう",
+    "example": "After work, he usually heads for the gym to exercise.",
+    "exampleJa": "仕事の後、彼はたいてい運動するためにジムへ向かいます。"
+  },
+  {
+    "rank": 95,
+    "english": "put up with 〜",
+    "meanings": "〜を我慢する／辛抱する",
+    "example": "I cannot put up with his bad behavior any longer.",
+    "exampleJa": "彼のひどい態度にはもう我慢できません。"
+  },
+  {
+    "rank": 96,
+    "english": "back and forth",
+    "meanings": "行ったり来たり／あちこちへ",
+    "example": "The swing moved back and forth in the gentle breeze.",
+    "exampleJa": "ブランコはそよ風の中で行ったり来たり動いた。"
+  },
+  {
+    "rank": 97,
+    "english": "by nature",
+    "meanings": "生まれつき／性質として",
+    "example": "She is kind and generous by nature, helping everyone.",
+    "exampleJa": "彼女は生まれつき親切で寛大で、みんなを助けます。"
+  },
+  {
+    "rank": 98,
+    "english": "if only ...",
+    "meanings": "...でさえあればいいのに（という願望）",
+    "example": "If only I had more time to study for the exam.",
+    "exampleJa": "試験のために勉強する時間がもっとあればいいのに。"
+  },
+  {
+    "rank": 99,
+    "english": "run away (from 〜)",
+    "meanings": "（〜から）逃げる",
+    "example": "The rabbit ran away from the dog into the bushes.",
+    "exampleJa": "ウサギは犬から茂みの中へ逃げた。"
+  },
+  {
+    "rank": 100,
+    "english": "at all costs",
+    "meanings": "どんな犠牲を払っても／何としても",
+    "example": "We must finish this project at all costs by Friday.",
+    "exampleJa": "私たちは何としても金曜日までにこのプロジェクトを終えなければなりません。"
+  },
+  {
+    "rank": 101,
+    "english": "run over",
+    "meanings": "ひく／（ざっと）目を通す／あふれる",
+    "example": "I will run over the report quickly before the meeting.",
+    "exampleJa": "会議の前に、レポートにざっと目を通します。"
+  },
+  {
+    "rank": 102,
+    "english": "of no use",
+    "meanings": "役に立たない／無駄な",
+    "example": "This old map is of no use now because the roads have changed.",
+    "exampleJa": "道が変わってしまったので、この古い地図は今では役に立たない。"
+  },
+  {
+    "rank": 103,
+    "english": "for the time being",
+    "meanings": "当分の間は／さしあたり",
+    "example": "For the time being, we will stay at this hotel.",
+    "exampleJa": "さしあたり、私たちはこのホテルに滞在します。"
+  },
+  {
+    "rank": 104,
+    "english": "for good",
+    "meanings": "永久に／きっぱりと",
+    "example": "She left her hometown for good last year.",
+    "exampleJa": "彼女は昨年、きっぱりと故郷を去りました。"
+  },
+  {
+    "rank": 105,
+    "english": "at a distance",
+    "meanings": "離れて／一定の距離を置いて",
+    "example": "We watched the beautiful fireworks at a distance.",
+    "exampleJa": "私たちは離れた場所で美しい花火を見ました。"
+  },
+  {
+    "rank": 106,
+    "english": "on the move",
+    "meanings": "移動中で／どんどん発展して",
+    "example": "He is always on the move for his job as a salesperson.",
+    "exampleJa": "彼は営業職なので、いつも移動中です。"
+  },
+  {
+    "rank": 107,
+    "english": "lay off",
+    "meanings": "解雇する／やめる・中断する",
+    "example": "The company had to lay off some workers due to low sales.",
+    "exampleJa": "売上が低迷したため、その会社は一部の従業員を解雇しなければなりませんでした。"
+  },
+  {
+    "rank": 108,
+    "english": "at times",
+    "meanings": "ときどき／時には",
+    "example": "At times, I feel nervous before giving a presentation.",
+    "exampleJa": "時には、プレゼンテーションをする前に緊張します。"
+  },
+  {
+    "rank": 109,
+    "english": "bound for 〜",
+    "meanings": "〜行きの",
+    "example": "This train is bound for Kyoto, departing at 9 AM.",
+    "exampleJa": "この電車は午前9時発の京都行きです。"
+  },
+  {
+    "rank": 110,
+    "english": "at large",
+    "meanings": "全体として／逃走中で／一般に",
+    "example": "The public at large needs to understand this environmental issue.",
+    "exampleJa": "一般の人々は、この環境問題について理解する必要があります。"
+  },
+  {
+    "rank": 111,
+    "english": "keep one's word",
+    "meanings": "約束を守る",
+    "example": "You must always keep your word to build trust.",
+    "exampleJa": "信頼を築くためには、常に約束を守らなければなりません。"
+  },
+  {
+    "rank": 112,
+    "english": "as for 〜",
+    "meanings": "〜に関して言えば／〜については",
+    "example": "As for me, I prefer reading books to watching TV.",
+    "exampleJa": "私に関して言えば、テレビを見るよりも本を読む方が好きです。"
+  },
+  {
+    "rank": 113,
+    "english": "hang on",
+    "meanings": "ちょっと待つ／しがみつく／頑張り続ける",
+    "example": "Please hang on for a moment; I'll be right back.",
+    "exampleJa": "ちょっとの間お待ちください。すぐに戻ります。"
+  },
+  {
+    "rank": 114,
+    "english": "have trouble doing",
+    "meanings": "〜するのに苦労する／問題を抱える",
+    "example": "I often have trouble remembering people's names.",
+    "exampleJa": "私はよく人々の名前を覚えるのに苦労します。"
+  },
+  {
+    "rank": 115,
+    "english": "in particular",
+    "meanings": "とりわけ／特に",
+    "example": "I like all kinds of music, rock music in particular.",
+    "exampleJa": "私はあらゆる種類の音楽が好きですが、特にロック音楽が好きです。"
+  },
+  {
+    "rank": 116,
+    "english": "point out",
+    "meanings": "指摘する／指し示す",
+    "example": "The teacher pointed out my mistakes in the essay.",
+    "exampleJa": "先生はエッセイの間違いを指摘してくれました。"
+  },
+  {
+    "rank": 117,
+    "english": "A rather than B",
+    "meanings": "B ではなくむしろ A",
+    "example": "She chose to study abroad rather than find a job.",
+    "exampleJa": "彼女は仕事を見つけるのではなく、むしろ留学することを選んだ。"
+  },
+  {
+    "rank": 118,
+    "english": "what is more",
+    "meanings": "おまけに／その上",
+    "example": "The movie was boring, and what is more, it was too long.",
+    "exampleJa": "その映画は退屈だったし、おまけに長すぎた。"
+  },
+  {
+    "rank": 119,
+    "english": "in turn",
+    "meanings": "今度は／順番に／結果として",
+    "example": "Hard work, in turn, leads to greater success in life.",
+    "exampleJa": "努力は、結果として人生のより大きな成功につながる。"
+  },
+  {
+    "rank": 120,
+    "english": "provided (that) ...",
+    "meanings": "...という条件で／...ならば",
+    "example": "You can use my car, provided you fill up the tank.",
+    "exampleJa": "ガソリンを満タンにするという条件で、私の車を使っていいよ。"
+  },
+  {
+    "rank": 121,
+    "english": "stay up",
+    "meanings": "起きている／夜更かしする",
+    "example": "I stayed up late last night to finish my project.",
+    "exampleJa": "昨夜はプロジェクトを終えるために夜遅くまで起きていた。"
+  },
+  {
+    "rank": 122,
+    "english": "put together",
+    "meanings": "まとめる／組み立てる",
+    "example": "We need to put together a presentation for next week.",
+    "exampleJa": "来週のプレゼンテーションをまとめる必要があります。"
+  },
+  {
+    "rank": 123,
+    "english": "in other words",
+    "meanings": "言い換えれば／つまり",
+    "example": "He is a fast learner; in other words, he picks things up quickly.",
+    "exampleJa": "彼は覚えが早い。言い換えれば、すぐに物事を習得する。"
+  },
+  {
+    "rank": 124,
+    "english": "as far as ...",
+    "meanings": "...する限り（では）／...まで",
+    "example": "As far as I know, the store opens at 10 AM.",
+    "exampleJa": "私が知る限りでは、その店は午前10時に開店します。"
+  },
+  {
+    "rank": 125,
+    "english": "run into 〜",
+    "meanings": "〜に偶然出会う／〜（問題など）にぶつかる",
+    "example": "I ran into my old teacher at the supermarket yesterday.",
+    "exampleJa": "昨日、スーパーで昔の先生に偶然会いました。"
+  },
+  {
+    "rank": 126,
+    "english": "name A after B",
+    "meanings": "BにちなんでAと名付ける",
+    "example": "We named our cat Luna after a character in a book.",
+    "exampleJa": "私たちは本の中の登場人物にちなんで猫をルナと名付けた。"
+  },
+  {
+    "rank": 127,
+    "english": "die out",
+    "meanings": "絶滅する／消え去る",
+    "example": "Many animal species are dying out due to climate change.",
+    "exampleJa": "多くの動物種が気候変動のため絶滅しつつある。"
+  },
+  {
+    "rank": 128,
+    "english": "in spite of 〜",
+    "meanings": "〜にもかかわらず",
+    "example": "In spite of the rain, we enjoyed the outdoor concert.",
+    "exampleJa": "雨にもかかわらず、私たちは野外コンサートを楽しんだ。"
+  },
+  {
+    "rank": 129,
+    "english": "manage to do",
+    "meanings": "なんとか〜する／どうにかして〜する",
+    "example": "I managed to finish my homework before midnight.",
+    "exampleJa": "私はなんとか真夜中までに宿題を終えた。"
+  },
+  {
+    "rank": 130,
+    "english": "make use of 〜",
+    "meanings": "〜を利用する／活用する",
+    "example": "We should make good use of the library's resources.",
+    "exampleJa": "私たちは図書館の資料を有効活用すべきだ。"
+  },
+  {
+    "rank": 131,
+    "english": "play a role in 〜",
+    "meanings": "〜で役割を果たす",
+    "example": "Education plays a vital role in shaping our future.",
+    "exampleJa": "教育は私たちの未来を形作る上で重要な役割を果たす。"
+  },
+  {
+    "rank": 132,
+    "english": "if A were to do",
+    "meanings": "もしAが〜するとしたら（仮定法・まずない想定）",
+    "example": "If the sun were to disappear, life on Earth would end.",
+    "exampleJa": "もし太陽が消滅するとしたら、地球上の生命は終わるだろう。"
+  },
+  {
+    "rank": 133,
+    "english": "There is no point in doing",
+    "meanings": "〜しても意味がない／無駄だ",
+    "example": "There is no point in arguing about such a small matter.",
+    "exampleJa": "そんな些細なことで議論しても意味がない。"
+  },
+  {
+    "rank": 134,
+    "english": "nothing but 〜",
+    "meanings": "〜ばかり／〜だけ／ただ〜",
+    "example": "He eats nothing but vegetables for his health.",
+    "exampleJa": "彼は健康のために野菜ばかり食べている。"
+  },
+  {
+    "rank": 135,
+    "english": "get through 〜",
+    "meanings": "〜をやり通す／通り抜ける／〜に連絡がつく",
+    "example": "I need to get through this difficult report by Friday.",
+    "exampleJa": "私は金曜日までにこの難しいレポートをやり通す必要がある。"
+  },
+  {
+    "rank": 136,
+    "english": "as a whole",
+    "meanings": "全体として／概して",
+    "example": "The team, as a whole, performed very well today.",
+    "exampleJa": "チームは全体として、今日とても良いパフォーマンスを見せた。"
+  },
+  {
+    "rank": 137,
+    "english": "come close to 〜",
+    "meanings": "もう少しで〜しそうになる／ほとんど〜に近づく",
+    "example": "She came close to winning the first prize in the contest.",
+    "exampleJa": "彼女はコンテストで優勝するところだった。"
+  },
+  {
+    "rank": 138,
+    "english": "make sense",
+    "meanings": "意味をなす／筋が通る／理解できる",
+    "example": "His explanation didn't make sense to me at all.",
+    "exampleJa": "彼の説明は私には全く理解できなかった。"
+  },
+  {
+    "rank": 139,
+    "english": "show up",
+    "meanings": "現れる／姿を見せる",
+    "example": "Many students showed up for the special lecture.",
+    "exampleJa": "多くの学生が特別講義に姿を見せた。"
+  },
+  {
+    "rank": 140,
+    "english": "at a time",
+    "meanings": "一度に／一回に",
+    "example": "Please take only one cookie at a time.",
+    "exampleJa": "一度にクッキーは1枚だけにしてください。"
+  },
+  {
+    "rank": 141,
+    "english": "look out for 〜",
+    "meanings": "〜に気をつける／〜を見張る",
+    "example": "Look out for cars when you cross the street.",
+    "exampleJa": "道を渡るときは車に気をつけなさい。"
+  },
+  {
+    "rank": 142,
+    "english": "go out of business",
+    "meanings": "倒産する／廃業する",
+    "example": "Many small shops went out of business during the pandemic.",
+    "exampleJa": "パンデミックの間、多くの小規模店が廃業した。"
+  },
+  {
+    "rank": 143,
+    "english": "remind A of B",
+    "meanings": "AにBを思い出させる",
+    "example": "This song reminds me of my childhood summers.",
+    "exampleJa": "この歌は私に子供の頃の夏を思い出させる。"
+  },
+  {
+    "rank": 144,
+    "english": "go through 〜",
+    "meanings": "〜を経験する／〜を通り抜ける／（書類など）目を通す",
+    "example": "She had to go through a lot of pain after the accident.",
+    "exampleJa": "彼女は事故の後、多くの苦痛を経験しなければならなかった。"
+  },
+  {
+    "rank": 145,
+    "english": "decide on 〜",
+    "meanings": "〜に決める／〜を選ぶ",
+    "example": "We need to decide on a destination for our trip soon.",
+    "exampleJa": "私たちはすぐに旅行の目的地を決めなければならない。"
+  },
+  {
+    "rank": 146,
+    "english": "on a 〜 basis",
+    "meanings": "〜という基準で／〜ごとに（例)",
+    "example": "We pay our rent on a monthly basis.",
+    "exampleJa": "私たちは家賃を毎月払っている。"
+  },
+  {
+    "rank": 147,
+    "english": "happen to do",
+    "meanings": "たまたま〜する／偶然〜する",
+    "example": "I happened to see my old teacher at the station.",
+    "exampleJa": "私はたまたま駅で昔の先生に会った。"
+  },
+  {
+    "rank": 148,
+    "english": "no matter what ...",
+    "meanings": "たとえ何が...しても／どんなに...でも",
+    "example": "No matter what happens, I will always support you.",
+    "exampleJa": "たとえ何が起きても、私はいつもあなたを支えるだろう。"
+  },
+  {
+    "rank": 149,
+    "english": "go wrong with 〜",
+    "meanings": "〜に不具合が起きる／〜がおかしくなる",
+    "example": "Something went wrong with my computer this morning.",
+    "exampleJa": "今朝、私のコンピューターに何か不具合が起きた。"
+  },
+  {
+    "rank": 150,
+    "english": "no less 〜 than A",
+    "meanings": "Aに劣らず〜／Aと同じくらい〜な",
+    "example": "She is no less talented than her brother.",
+    "exampleJa": "彼女は兄に劣らず才能がある。"
+  },
+  {
+    "rank": 151,
+    "english": "come by 〜",
+    "meanings": "〜を手に入れる／〜のそばを通る",
+    "example": "It's hard to come by fresh vegetables in winter.",
+    "exampleJa": "冬に新鮮な野菜を手に入れるのは難しい。"
+  },
+  {
+    "rank": 152,
+    "english": "look into 〜",
+    "meanings": "〜を調査する／詳しく調べる",
+    "example": "The police will look into the accident immediately.",
+    "exampleJa": "警察はすぐにその事故を調査するだろう。"
+  },
+  {
+    "rank": 153,
+    "english": "what is worse",
+    "meanings": "さらに悪いことに",
+    "example": "It rained, and what is worse, I forgot my umbrella.",
+    "exampleJa": "雨が降り、さらに悪いことに、私は傘を忘れた。"
+  },
+  {
+    "rank": 154,
+    "english": "put A into practice",
+    "meanings": "Aを実行に移す／実践する",
+    "example": "We need to put our new ideas into practice.",
+    "exampleJa": "私たちは新しいアイデアを実行に移す必要がある。"
+  },
+  {
+    "rank": 155,
+    "english": "bring up",
+    "meanings": "育てる／（話題を）持ち出す",
+    "example": "Don't bring up that topic during dinner.",
+    "exampleJa": "夕食中にその話題を持ち出さないでください。"
+  },
+  {
+    "rank": 156,
+    "english": "get bored with 〜",
+    "meanings": "〜に飽きる",
+    "example": "I often get bored with watching the same TV show.",
+    "exampleJa": "私は同じテレビ番組を見るのにしばしば飽きる。"
+  },
+  {
+    "rank": 157,
+    "english": "put an end to 〜",
+    "meanings": "〜に終止符を打つ／終わらせる",
+    "example": "We must put an end to global warming soon.",
+    "exampleJa": "私たちは地球温暖化に早く終止符を打つべきだ。"
+  },
+  {
+    "rank": 158,
+    "english": "show off",
+    "meanings": "見せびらかす／自慢する",
+    "example": "He likes to show off his new expensive car.",
+    "exampleJa": "彼は自分の新しい高価な車を見せびらかすのが好きだ。"
+  },
+  {
+    "rank": 159,
+    "english": "get over 〜",
+    "meanings": "〜を乗り越える／（病気などから）回復する",
+    "example": "It took him a long time to get over the flu.",
+    "exampleJa": "彼がインフルエンザから回復するのに長い時間がかかった。"
+  },
+  {
+    "rank": 160,
+    "english": "ahead of schedule",
+    "meanings": "予定より早く／予定より前に",
+    "example": "The construction project finished ahead of schedule.",
+    "exampleJa": "建設プロジェクトは予定より早く終了した。"
+  },
+  {
+    "rank": 161,
+    "english": "enable A to do",
+    "meanings": "Aが〜できるようにする",
+    "example": "This new app enables us to learn English easily.",
+    "exampleJa": "この新しいアプリは私たちが簡単に英語を学べるようにする。"
+  },
+  {
+    "rank": 162,
+    "english": "set aside",
+    "meanings": "取っておく／脇へ置く／無視する",
+    "example": "Please set aside some money for your future.",
+    "exampleJa": "将来のためにいくらかお金を取っておいてください。"
+  },
+  {
+    "rank": 163,
+    "english": "at the mercy of 〜",
+    "meanings": "〜のなすがままになって／〜に翻弄されて",
+    "example": "Small boats were at the mercy of the strong waves.",
+    "exampleJa": "小さな船は強い波のなすがままだった。"
+  },
+  {
+    "rank": 164,
+    "english": "cannot help doing",
+    "meanings": "〜せずにはいられない",
+    "example": "I cannot help laughing when I hear that joke.",
+    "exampleJa": "その冗談を聞くと笑わずにはいられない。"
+  },
+  {
+    "rank": 165,
+    "english": "go on the air",
+    "meanings": "放送される／オンエアになる",
+    "example": "The new TV drama will go on the air next month.",
+    "exampleJa": "新しいテレビドラマは来月放送される。"
+  },
+  {
+    "rank": 166,
+    "english": "make a fool of 〜",
+    "meanings": "〜をばかにする／笑い者にする",
+    "example": "Don't make a fool of yourself by telling lies.",
+    "exampleJa": "嘘をついて自分を笑い者にするな。"
+  },
+  {
+    "rank": 167,
+    "english": "but for 〜",
+    "meanings": "〜がなければ／〜がなかったら",
+    "example": "But for your help, I would have failed the exam.",
+    "exampleJa": "あなたの助けがなければ、私は試験に落ちていただろう。"
+  },
+  {
+    "rank": 168,
+    "english": "follow through with 〜",
+    "meanings": "〜を最後までやり通す／完遂する",
+    "example": "He always follows through with his promises.",
+    "exampleJa": "彼は常に約束を最後までやり通す。"
+  },
+  {
+    "rank": 169,
+    "english": "tear off",
+    "meanings": "引きはがす／びりっと破り取る",
+    "example": "Please tear off the coupon from the magazine.",
+    "exampleJa": "雑誌からクーポンを引きはがしてください。"
+  },
+  {
+    "rank": 170,
+    "english": "be to blame for 〜",
+    "meanings": "〜の責任がある／〜について責められるべきだ",
+    "example": "The driver was to blame for the traffic accident.",
+    "exampleJa": "その運転手が交通事故の責任があった。"
+  },
+  {
+    "rank": 171,
+    "english": "persist in 〜",
+    "meanings": "〜をしつこく続ける／〜に固執する",
+    "example": "He persists in studying English every day.",
+    "exampleJa": "彼は毎日英語を勉強し続ける。"
+  },
+  {
+    "rank": 172,
+    "english": "all the more",
+    "meanings": "なおさら／いっそう",
+    "example": "She was tired, but she worked all the more diligently.",
+    "exampleJa": "彼女は疲れていたが、なおさら熱心に働いた。"
+  },
+  {
+    "rank": 173,
+    "english": "be sufficient for 〜",
+    "meanings": "〜に十分である",
+    "example": "This amount of food will be sufficient for everyone.",
+    "exampleJa": "この量の食べ物は全員に十分だろう。"
+  },
+  {
+    "rank": 174,
+    "english": "get sick of 〜",
+    "meanings": "〜にうんざりする",
+    "example": "I'm getting sick of listening to the same song.",
+    "exampleJa": "私は同じ歌を聞くのにうんざりしている。"
+  },
+  {
+    "rank": 175,
+    "english": "talk A into doing",
+    "meanings": "Aを説得して〜させる",
+    "example": "I talked my friend into joining the volunteer group.",
+    "exampleJa": "私は友人を説得してボランティアグループに入ってもらった。"
+  },
+  {
+    "rank": 176,
+    "english": "to say nothing of 〜",
+    "meanings": "〜は言うまでもなく",
+    "example": "She can speak German, to say nothing of English.",
+    "exampleJa": "彼女は英語は言うまでもなく、ドイツ語も話せる。"
+  },
+  {
+    "rank": 177,
+    "english": "at first sight",
+    "meanings": "一目見て／一見したところでは",
+    "example": "The problem seemed easy at first sight.",
+    "exampleJa": "その問題は一見したところでは簡単そうに見えた。"
+  },
+  {
+    "rank": 178,
+    "english": "at any moment",
+    "meanings": "今にも／いつでも",
+    "example": "The old building could collapse at any moment.",
+    "exampleJa": "その古い建物は今にも崩れそうだ。"
+  },
+  {
+    "rank": 179,
+    "english": "be said to do",
+    "meanings": "〜すると言われている",
+    "example": "This ancient castle is said to be haunted.",
+    "exampleJa": "この古い城はお化けが出ると言われている。"
+  },
+  {
+    "rank": 180,
+    "english": "now and then",
+    "meanings": "ときどき／たまに",
+    "example": "I visit my grandparents now and then.",
+    "exampleJa": "私はときどき祖父母を訪ねる。"
+  },
+  {
+    "rank": 181,
+    "english": "out of order",
+    "meanings": "（機械などが）故障して／順番がめちゃくちゃで",
+    "example": "The printer is out of order again.",
+    "exampleJa": "またプリンターが故障している。"
+  },
+  {
+    "rank": 182,
+    "english": "for lack of 〜",
+    "meanings": "〜が不足して／〜がないために",
+    "example": "The plants died for lack of water.",
+    "exampleJa": "水が不足していたために、植物は枯れてしまった。"
+  },
+  {
+    "rank": 183,
+    "english": "take down",
+    "meanings": "書きとめる／取り外す／取り壊す",
+    "example": "Please take down notes during the lecture.",
+    "exampleJa": "講義中にメモを書きとめてください。"
+  },
+  {
+    "rank": 184,
+    "english": "A is to B what C is to D",
+    "meanings": "AとBの関係はCとDの関係に等しい",
+    "example": "Air is to humans what water is to fish.",
+    "exampleJa": "空気と人間の関係は、水と魚の関係に等しい。"
+  },
+  {
+    "rank": 185,
+    "english": "as follows",
+    "meanings": "次の通り",
+    "example": "The instructions are as follows.",
+    "exampleJa": "指示は次の通りです。"
+  },
+  {
+    "rank": 186,
+    "english": "be anxious about 〜",
+    "meanings": "〜を心配している／気にかける",
+    "example": "Parents are often anxious about their children's future.",
+    "exampleJa": "親はよく子供たちの将来を心配している。"
+  },
+  {
+    "rank": 187,
+    "english": "become acquainted with 〜",
+    "meanings": "〜と知り合いになる／〜を知るようになる",
+    "example": "I hope to become acquainted with my new colleagues.",
+    "exampleJa": "新しい同僚と知り合いになりたいと思っている。"
+  },
+  {
+    "rank": 188,
+    "english": "be entitled to 〜",
+    "meanings": "〜の資格がある／〜を受ける権利がある",
+    "example": "You are entitled to a free meal.",
+    "exampleJa": "あなたは無料の食事を受ける資格があります。"
+  },
+  {
+    "rank": 189,
+    "english": "get A over with",
+    "meanings": "A（面倒なこと）をさっさと片づけてしまう",
+    "example": "Let's get this difficult task over with.",
+    "exampleJa": "この難しい仕事をさっさと片づけてしまおう。"
+  },
+  {
+    "rank": 190,
+    "english": "out of focus",
+    "meanings": "ピントが合っていない／焦点がずれている",
+    "example": "My camera took a picture that was out of focus.",
+    "exampleJa": "私のカメラはピントの合っていない写真を撮ってしまった。"
+  },
+  {
+    "rank": 191,
+    "english": "answer for 〜",
+    "meanings": "〜に責任を負う／〜を保証する",
+    "example": "You must answer for your mistakes.",
+    "exampleJa": "あなたは自分の過ちに責任を負わなければならない。"
+  },
+  {
+    "rank": 192,
+    "english": "lose face",
+    "meanings": "面目を失う／顔をつぶされる",
+    "example": "He would lose face if he broke his promise.",
+    "exampleJa": "彼は約束を破れば面目を失うだろう。"
+  },
+  {
+    "rank": 193,
+    "english": "call it a day",
+    "meanings": "その日はそこで切り上げる／仕事を終わりにする",
+    "example": "It's getting late, so let's call it a day.",
+    "exampleJa": "もう遅くなってきたので、今日はこれで終わりにしよう。"
+  },
+  {
+    "rank": 194,
+    "english": "have second thoughts",
+    "meanings": "あとになって考え直す／迷いが出る",
+    "example": "I'm having second thoughts about moving.",
+    "exampleJa": "引っ越すことについて考え直している。"
+  },
+  {
+    "rank": 195,
+    "english": "well off",
+    "meanings": "裕福な／暮らし向きがよい",
+    "example": "They seem to be very well off.",
+    "exampleJa": "彼らはとても裕福なようだ。"
+  },
+  {
+    "rank": 196,
+    "english": "keep A to oneself",
+    "meanings": "Aを自分だけの秘密にしておく",
+    "example": "She decided to keep the news to herself.",
+    "exampleJa": "彼女はそのニュースを自分だけの秘密にしておくことにした。"
+  },
+  {
+    "rank": 197,
+    "english": "as many as 〜",
+    "meanings": "〜もの（多さを強調）",
+    "example": "As many as 5,000 people attended the festival.",
+    "exampleJa": "5,000人もの人々がその祭りに出席した。"
+  },
+  {
+    "rank": 198,
+    "english": "make it in time",
+    "meanings": "間に合う",
+    "example": "We made it in time for the train.",
+    "exampleJa": "私たちは電車に間に合った。"
+  },
+  {
+    "rank": 199,
+    "english": "be dying to do",
+    "meanings": "とても〜したくてたまらない",
+    "example": "I'm dying to visit Japan someday.",
+    "exampleJa": "いつか日本を訪れたくてたまらない。"
+  },
+  {
+    "rank": 200,
+    "english": "catch one's breath",
+    "meanings": "息を整える／ほっと一息つく",
+    "example": "He stopped to catch his breath after running.",
+    "exampleJa": "彼は走った後、息を整えるために立ち止まった。"
+  },
+  {
+    "rank": 201,
+    "english": "in practice",
+    "meanings": "実際には／実際のところ",
+    "example": "The new rule looks good, but in practice, it's hard to follow.",
+    "exampleJa": "新しいルールは良さそうに見えるが、実際には守るのが難しい。"
+  },
+  {
+    "rank": 202,
+    "english": "speak well of ~",
+    "meanings": "~をほめる／~のことをよく言う",
+    "example": "My teacher always speaks well of my effort.",
+    "exampleJa": "私の先生はいつも私の努力を褒めてくれます。"
+  },
+  {
+    "rank": 203,
+    "english": "beyond A's reach",
+    "meanings": "Aの手の届かないところに／Aには手が届かない",
+    "example": "The high shelf was beyond the child's reach.",
+    "exampleJa": "その高い棚は子供の手の届かないところにあった。"
+  },
+  {
+    "rank": 204,
+    "english": "as a matter of course",
+    "meanings": "当然のこととして／もちろん",
+    "example": "She helps her friends as a matter of course.",
+    "exampleJa": "彼女は当然のこととして友達を助ける。"
+  },
+  {
+    "rank": 205,
+    "english": "in effect",
+    "meanings": "事実上／実質的には／効力があって",
+    "example": "The old law is still in effect today.",
+    "exampleJa": "その古い法律は今日でも有効である。"
+  },
+  {
+    "rank": 206,
+    "english": "in part",
+    "meanings": "一部は／部分的に",
+    "example": "His success was in part due to his hard work.",
+    "exampleJa": "彼の成功は、一部は彼の努力によるものだった。"
+  },
+  {
+    "rank": 207,
+    "english": "out of use",
+    "meanings": "使われていない／使用されていない",
+    "example": "This old phone has been out of use for years.",
+    "exampleJa": "この古い電話は何年も使われていない。"
+  },
+  {
+    "rank": 208,
+    "english": "speaking of ~",
+    "meanings": "~と言えば",
+    "example": "Speaking of movies, have you seen the new one?",
+    "exampleJa": "映画と言えば、新しい映画はもう見た？"
+  },
+  {
+    "rank": 209,
+    "english": "come into being",
+    "meanings": "生まれる／出現する／成立する",
+    "example": "Many new companies come into being every year.",
+    "exampleJa": "毎年多くの新しい会社が生まれる。"
+  },
+  {
+    "rank": 210,
+    "english": "under way",
+    "meanings": "進行中で／始まっていて",
+    "example": "The construction of the new building is under way.",
+    "exampleJa": "新しいビルの建設が進行中だ。"
+  },
+  {
+    "rank": 211,
+    "english": "on the basis of ~",
+    "meanings": "~に基づいて",
+    "example": "We made our decision on the basis of facts.",
+    "exampleJa": "私たちは事実に基づいて決定を下した。"
+  },
+  {
+    "rank": 212,
+    "english": "have a word with ~",
+    "meanings": "~と少し話をする／ちょっと相談する",
+    "example": "I need to have a word with my boss.",
+    "exampleJa": "上司と少し話をする必要がある。"
+  },
+  {
+    "rank": 213,
+    "english": "The bottom line is that ...",
+    "meanings": "要するに...ということだ／結論は...だ",
+    "example": "The bottom line is that we need more funding.",
+    "exampleJa": "要するに、私たちはもっと資金が必要だということだ。"
+  },
+  {
+    "rank": 214,
+    "english": "be inferior to ~",
+    "meanings": "~より劣っている",
+    "example": "This old model is inferior to the new one.",
+    "exampleJa": "この古いモデルは新しいものより劣っている。"
+  },
+  {
+    "rank": 215,
+    "english": "except that ...",
+    "meanings": "...ということを除いては",
+    "example": "The plan is perfect, except that it costs too much.",
+    "exampleJa": "その計画は完璧だが、費用がかかりすぎるということを除いては。"
+  },
+  {
+    "rank": 216,
+    "english": "make a face",
+    "meanings": "顔をしかめる／いやな顔をする",
+    "example": "He made a face when he tasted the sour lemon.",
+    "exampleJa": "彼は酸っぱいレモンを味見したとき、顔をしかめた。"
+  },
+  {
+    "rank": 217,
+    "english": "prior to ~",
+    "meanings": "~の前に／~に先立って",
+    "example": "Please submit your report prior to the meeting.",
+    "exampleJa": "会議の前にレポートを提出してください。"
+  },
+  {
+    "rank": 218,
+    "english": "cross out",
+    "meanings": "線を引いて消す",
+    "example": "I crossed out the wrong answer on the test.",
+    "exampleJa": "私はテストの誤った答えに線を引いて消した。"
+  },
+  {
+    "rank": 219,
+    "english": "in any event",
+    "meanings": "いずれにせよ／とにかく",
+    "example": "It might rain, but in any event, we will go.",
+    "exampleJa": "雨が降るかもしれないが、いずれにせよ私たちは行くつもりだ。"
+  },
+  {
+    "rank": 220,
+    "english": "in the course of ~",
+    "meanings": "~の途中で／~の間に",
+    "example": "He learned a lot in the course of his journey.",
+    "exampleJa": "彼は旅の途中で多くのことを学んだ。"
+  },
+  {
+    "rank": 221,
+    "english": "inside out",
+    "meanings": "裏返しに／すみずみまで／徹底的に",
+    "example": "He wore his T-shirt inside out by mistake.",
+    "exampleJa": "彼は間違ってTシャツを裏返しに着ていた。"
+  },
+  {
+    "rank": 222,
+    "english": "be spared from doing",
+    "meanings": "~せずにすむ／~から免れる",
+    "example": "Luckily, I was spared from doing extra work.",
+    "exampleJa": "幸運にも、私は余分な仕事をせずにすんだ。"
+  },
+  {
+    "rank": 223,
+    "english": "expect much of ~",
+    "meanings": "~に多くを期待する",
+    "example": "We expect much of the young players.",
+    "exampleJa": "私たちは若い選手たちに多くを期待している。"
+  },
+  {
+    "rank": 224,
+    "english": "get on A's nerves",
+    "meanings": "Aの神経にさわる／Aをいらいらさせる",
+    "example": "His constant complaining really gets on my nerves.",
+    "exampleJa": "彼の絶え間ない不平には本当にいらいらさせられる。"
+  },
+  {
+    "rank": 225,
+    "english": "permit A to do",
+    "meanings": "Aに~することを許す",
+    "example": "My parents permit me to go out late.",
+    "exampleJa": "私の両親は私が夜遅く外出することを許している。"
+  },
+  {
+    "rank": 226,
+    "english": "be packed with 〜",
+    "meanings": "〜でぎっしりである／〜が詰まっている",
+    "example": "The train was packed with students this morning.",
+    "exampleJa": "今朝、電車は学生でぎっしりだった。"
+  },
+  {
+    "rank": 227,
+    "english": "for all I know",
+    "meanings": "私の知る限りでは／もしかすると〜かもしれない",
+    "example": "For all I know, he might be a famous singer.",
+    "exampleJa": "私の知る限りでは、彼は有名な歌手かもしれない。"
+  },
+  {
+    "rank": 228,
+    "english": "go too far",
+    "meanings": "やりすぎる／度が過ぎる",
+    "example": "Your joke went too far and hurt her feelings.",
+    "exampleJa": "あなたの冗談は度が過ぎて、彼女を傷つけた。"
+  },
+  {
+    "rank": 229,
+    "english": "at the cost of 〜",
+    "meanings": "〜を犠牲にして／〜という代償を払って",
+    "example": "He achieved success at the cost of his health.",
+    "exampleJa": "彼は健康を犠牲にして成功を収めた。"
+  },
+  {
+    "rank": 230,
+    "english": "close at hand",
+    "meanings": "すぐ近くに／間近に迫って",
+    "example": "The exam is close at hand, so I must study hard.",
+    "exampleJa": "試験が間近に迫っているので、一生懸命勉強しなければならない。"
+  },
+  {
+    "rank": 231,
+    "english": "have yet to do",
+    "meanings": "まだ〜していない／これから〜しなければならない",
+    "example": "We have yet to decide on our summer vacation plan.",
+    "exampleJa": "私たちはまだ夏休みの計画を決めていない。"
+  },
+  {
+    "rank": 232,
+    "english": "come of age",
+    "meanings": "成人する／一人前になる",
+    "example": "My brother will come of age next year.",
+    "exampleJa": "私の兄は来年成人する。"
+  },
+  {
+    "rank": 233,
+    "english": "have a great deal to do with 〜",
+    "meanings": "〜と大いに関係がある",
+    "example": "Your diet has a great deal to do with your health.",
+    "exampleJa": "あなたの食生活は健康と大いに関係がある。"
+  },
+  {
+    "rank": 234,
+    "english": "take the trouble of doing",
+    "meanings": "わざわざ骨を折って〜する",
+    "example": "She took the trouble of helping me with my homework.",
+    "exampleJa": "彼女はわざわざ骨を折って私の宿題を手伝ってくれた。"
+  },
+  {
+    "rank": 235,
+    "english": "fade out",
+    "meanings": "次第に消える／フェードアウトする",
+    "example": "The old song slowly began to fade out.",
+    "exampleJa": "その古い歌はゆっくりと次第に消えていった。"
+  },
+  {
+    "rank": 236,
+    "english": "all of a sudden",
+    "meanings": "突然／不意に",
+    "example": "All of a sudden, it started to rain heavily.",
+    "exampleJa": "突然、激しい雨が降り出した。"
+  },
+  {
+    "rank": 237,
+    "english": "be ignorant of 〜",
+    "meanings": "〜を知らない／〜について無知である",
+    "example": "Many people are ignorant of environmental issues.",
+    "exampleJa": "多くの人々は環境問題について無知である。"
+  },
+  {
+    "rank": 238,
+    "english": "leave nothing to be desired",
+    "meanings": "申し分ない／文句のつけようがない",
+    "example": "Her performance left nothing to be desired.",
+    "exampleJa": "彼女のパフォーマンスは申し分なかった。"
+  },
+  {
+    "rank": 239,
+    "english": "cover up",
+    "meanings": "隠す／もみ消す／覆い隠す",
+    "example": "He tried to cover up his mistake.",
+    "exampleJa": "彼は自分の間違いを隠そうとした。"
+  },
+  {
+    "rank": 240,
+    "english": "let down",
+    "meanings": "がっかりさせる／期待を裏切る",
+    "example": "Don't let your parents down by failing the exam.",
+    "exampleJa": "試験に落ちて両親をがっかりさせないで。"
+  },
+  {
+    "rank": 241,
+    "english": "make room for 〜",
+    "meanings": "〜のためのスペースを空ける／〜に席を譲る",
+    "example": "Could you make room for this new sofa?",
+    "exampleJa": "この新しいソファのためにスペースを空けてもらえますか？"
+  },
+  {
+    "rank": 242,
+    "english": "be in command of 〜",
+    "meanings": "〜を指揮している／〜を自由に操れる",
+    "example": "The captain was in command of the ship.",
+    "exampleJa": "船長はその船を指揮していた。"
+  },
+  {
+    "rank": 243,
+    "english": "burst into laughter",
+    "meanings": "どっと笑い出す",
+    "example": "When he told the joke, everyone burst into laughter.",
+    "exampleJa": "彼がその冗談を言ったとき、みんなどっと笑い出した。"
+  },
+  {
+    "rank": 244,
+    "english": "on doing",
+    "meanings": "〜するとすぐに（＝on ~ing）",
+    "example": "On hearing the news, she cried with joy.",
+    "exampleJa": "その知らせを聞くとすぐに、彼女は喜びで泣いた。"
+  },
+  {
+    "rank": 245,
+    "english": "sit up",
+    "meanings": "起きている／上体を起こす／夜更かしする",
+    "example": "I had to sit up late to finish my report.",
+    "exampleJa": "レポートを終わらせるために夜遅くまで起きていなければならなかった。"
+  },
+  {
+    "rank": 246,
+    "english": "all the same",
+    "meanings": "それでもやはり／それにもかかわらず",
+    "example": "It was raining, but we went out all the same.",
+    "exampleJa": "雨が降っていたが、私たちはそれでもやはり出かけた。"
+  },
+  {
+    "rank": 247,
+    "english": "go on doing",
+    "meanings": "〜し続ける",
+    "example": "She went on studying even after midnight.",
+    "exampleJa": "彼女は真夜中を過ぎても勉強し続けた。"
+  },
+  {
+    "rank": 248,
+    "english": "in the sun",
+    "meanings": "日なたで／日光の下で",
+    "example": "We enjoyed our picnic in the sun.",
+    "exampleJa": "私たちは日なたでピクニックを楽しんだ。"
+  },
+  {
+    "rank": 249,
+    "english": "mean to do",
+    "meanings": "〜するつもりである／〜する意図がある",
+    "example": "I didn't mean to offend you with my words.",
+    "exampleJa": "私は自分の言葉であなたを傷つけるつもりはなかった。"
+  },
+  {
+    "rank": 250,
+    "english": "have one's own way",
+    "meanings": "自分の思いどおりにする",
+    "example": "My little sister always wants to have her own way.",
+    "exampleJa": "私の妹はいつも自分の思いどおりにしたがる。"
+  },
+  {
+    "rank": 251,
+    "english": "pass down",
+    "meanings": "伝える／受け継がせる",
+    "example": "Our grandparents passed down many stories to us.",
+    "exampleJa": "私たちの祖父母は多くの物語を私たちに伝えてくれました。"
+  },
+  {
+    "rank": 252,
+    "english": "take A into account",
+    "meanings": "Aを考慮に入れる",
+    "example": "We must take all factors into account before deciding.",
+    "exampleJa": "決定する前に、すべての要素を考慮に入れなければなりません。"
+  },
+  {
+    "rank": 253,
+    "english": "be tempted to do",
+    "meanings": "つい〜したくなる／〜したい誘惑にかられる",
+    "example": "I was tempted to buy the new game.",
+    "exampleJa": "その新しいゲームをつい買いたくなりました。"
+  },
+  {
+    "rank": 254,
+    "english": "by instinct",
+    "meanings": "本能的に／勘で",
+    "example": "The bird built its nest by instinct.",
+    "exampleJa": "その鳥は本能的に巣を作りました。"
+  },
+  {
+    "rank": 255,
+    "english": "not so much as do",
+    "meanings": "〜さえしない",
+    "example": "He did not so much as say goodbye.",
+    "exampleJa": "彼はお別れの言葉さえ言いませんでした。"
+  },
+  {
+    "rank": 256,
+    "english": "be certain to do",
+    "meanings": "きっと〜する／確実に〜する",
+    "example": "She is certain to win the competition.",
+    "exampleJa": "彼女はきっとその大会で優勝するでしょう。"
+  },
+  {
+    "rank": 257,
+    "english": "only to do",
+    "meanings": "その結果〜しただけだった",
+    "example": "He ran fast, only to miss the train.",
+    "exampleJa": "彼は速く走ったが、結局電車に乗り遅れただけだった。"
+  },
+  {
+    "rank": 258,
+    "english": "at your earliest convenience",
+    "meanings": "ご都合がつき次第なるべく早く",
+    "example": "Please reply to this email at your earliest convenience.",
+    "exampleJa": "ご都合がつき次第なるべく早くこのメールにご返信ください。"
+  },
+  {
+    "rank": 259,
+    "english": "safe and sound",
+    "meanings": "無事に／何事もなく",
+    "example": "We arrived home safe and sound after the trip.",
+    "exampleJa": "旅行の後、私たちは無事に家に着きました。"
+  },
+  {
+    "rank": 260,
+    "english": "with regard to 〜",
+    "meanings": "〜に関しては",
+    "example": "With regard to the plan, we need more discussion.",
+    "exampleJa": "その計画に関しては、もっと議論が必要です。"
+  },
+  {
+    "rank": 261,
+    "english": "as is often the case with 〜",
+    "meanings": "〜にはよくあることだが／〜によく見られるように",
+    "example": "As is often the case with new technology, it has pros and cons.",
+    "exampleJa": "新しい技術にはよくあることだが、それには長所と短所がある。"
+  },
+  {
+    "rank": 262,
+    "english": "as often as A times",
+    "meanings": "A回も（〜するたび）",
+    "example": "He visits his grandmother as often as three times a week.",
+    "exampleJa": "彼は週に3回も祖母を訪ねます。"
+  },
+  {
+    "rank": 263,
+    "english": "in private",
+    "meanings": "内密に／人のいないところで",
+    "example": "They discussed the sensitive issue in private.",
+    "exampleJa": "彼らはそのデリケートな問題を内密に話し合いました。"
+  },
+  {
+    "rank": 264,
+    "english": "run through 〜",
+    "meanings": "〜にざっと目を通す／〜の中を流れる／〜を通しで練習する",
+    "example": "Let's run through the script one more time.",
+    "exampleJa": "もう一度台本にざっと目を通しましょう。"
+  },
+  {
+    "rank": 265,
+    "english": "go with 〜",
+    "meanings": "〜に合う／〜と一緒に行く",
+    "example": "This tie will go well with your suit.",
+    "exampleJa": "このネクタイはあなたのスーツによく合うでしょう。"
+  },
+  {
+    "rank": 266,
+    "english": "make time",
+    "meanings": "時間を作る／時間の都合をつける",
+    "example": "I will try to make time for your request.",
+    "exampleJa": "あなたのご要望のために時間を作るようにします。"
+  },
+  {
+    "rank": 267,
+    "english": "No wonder ...",
+    "meanings": "...なのも不思議ではない／道理で...なわけだ",
+    "example": "He studied hard. No wonder he passed the exam.",
+    "exampleJa": "彼は一生懸命勉強しました。彼が試験に合格したのも不思議ではありません。"
+  },
+  {
+    "rank": 268,
+    "english": "take A's place",
+    "meanings": "Aの代わりをする／Aに取って代わる",
+    "example": "A new machine will take the place of human workers.",
+    "exampleJa": "新しい機械が人間の労働者に取って代わるでしょう。"
+  },
+  {
+    "rank": 269,
+    "english": "bring about",
+    "meanings": "引き起こす／もたらす",
+    "example": "His speech brought about a big change in society.",
+    "exampleJa": "彼のスピーチは社会に大きな変化をもたらしました。"
+  },
+  {
+    "rank": 270,
+    "english": "get in A's way",
+    "meanings": "Aのじゃまをする／Aの障害になる",
+    "example": "Don't let your fears get in your way of success.",
+    "exampleJa": "恐れが成功の邪魔にならないようにしなさい。"
+  },
+  {
+    "rank": 271,
+    "english": "make up one's mind",
+    "meanings": "決心する／覚悟を決める",
+    "example": "She made up her mind to study abroad next year.",
+    "exampleJa": "彼女は来年留学することを決心しました。"
+  },
+  {
+    "rank": 272,
+    "english": "nothing less than 〜",
+    "meanings": "まさに〜／〜にほかならない",
+    "example": "His performance was nothing less than amazing.",
+    "exampleJa": "彼のパフォーマンスはまさに驚くべきものでした。"
+  },
+  {
+    "rank": 273,
+    "english": "in depth",
+    "meanings": "徹底的に／深く",
+    "example": "We need to analyze the data in depth.",
+    "exampleJa": "私たちはそのデータを徹底的に分析する必要があります。"
+  },
+  {
+    "rank": 274,
+    "english": "in honor of A",
+    "meanings": "Aに敬意を表して／Aを祝して",
+    "example": "They held a party in honor of the retiring CEO.",
+    "exampleJa": "彼らは退任するCEOに敬意を表してパーティーを開きました。"
+  },
+  {
+    "rank": 275,
+    "english": "pass away",
+    "meanings": "亡くなる／死去する",
+    "example": "My grandfather passed away peacefully last night.",
+    "exampleJa": "私の祖父は昨夜、安らかに亡くなりました。"
+  },
+  {
+    "rank": 276,
+    "english": "show A to B",
+    "meanings": "AをBに案内する",
+    "example": "I will show you to the meeting room.",
+    "exampleJa": "会議室へご案内します。"
+  },
+  {
+    "rank": 277,
+    "english": "such that ...",
+    "meanings": "〜なほど...／...するほどの（程度を表す構文）",
+    "example": "The problem was such that we couldn't solve it.",
+    "exampleJa": "その問題は、私たちが解決できないほどだった。"
+  },
+  {
+    "rank": 278,
+    "english": "pay a visit to 〜",
+    "meanings": "〜を訪問する／〜を訪ねる",
+    "example": "We will pay a visit to our grandparents next week.",
+    "exampleJa": "私たちは来週、祖父母を訪ねるつもりです。"
+  },
+  {
+    "rank": 279,
+    "english": "when it comes to 〜",
+    "meanings": "〜のことになると／〜と言えば",
+    "example": "When it comes to cooking, my sister is the best.",
+    "exampleJa": "料理のことになると、私の姉が一番です。"
+  },
+  {
+    "rank": 280,
+    "english": "a piece of cake",
+    "meanings": "とても簡単なこと／楽勝",
+    "example": "Finishing this task will be a piece of cake for him.",
+    "exampleJa": "彼にとってこの課題を終えるのは楽勝だろう。"
+  },
+  {
+    "rank": 281,
+    "english": "to A's regret",
+    "meanings": "Aにとって残念なことに",
+    "example": "To my regret, I couldn't attend the party.",
+    "exampleJa": "残念なことに、私はパーティーに出席できませんでした。"
+  },
+  {
+    "rank": 282,
+    "english": "stand by",
+    "meanings": "そばにいる／待機する／（人・意見を）支持する",
+    "example": "I will always stand by you, no matter what happens.",
+    "exampleJa": "何があっても、私はいつもあなたのそばにいます。"
+  },
+  {
+    "rank": 283,
+    "english": "for instance",
+    "meanings": "例えば",
+    "example": "Many animals, for instance, dogs, can be good pets.",
+    "exampleJa": "例えば犬など、多くの動物は良いペットになりえます。"
+  },
+  {
+    "rank": 284,
+    "english": "by accident",
+    "meanings": "偶然に／誤って",
+    "example": "I found my old photo album by accident.",
+    "exampleJa": "私は偶然、古い写真アルバムを見つけました。"
+  },
+  {
+    "rank": 285,
+    "english": "in detail",
+    "meanings": "詳しく／詳細に",
+    "example": "Please explain the new plan in detail.",
+    "exampleJa": "新しい計画を詳しく説明してください。"
+  },
+  {
+    "rank": 286,
+    "english": "in place of A",
+    "meanings": "Aの代わりに",
+    "example": "She used a marker in place of a pen.",
+    "exampleJa": "彼女はペンの代わりにマーカーを使いました。"
+  },
+  {
+    "rank": 287,
+    "english": "on duty",
+    "meanings": "勤務中で／当番で",
+    "example": "The doctor is on duty until midnight.",
+    "exampleJa": "その医者は深夜まで勤務中です。"
+  },
+  {
+    "rank": 288,
+    "english": "by chance",
+    "meanings": "偶然に",
+    "example": "We met our old teacher by chance at the station.",
+    "exampleJa": "私たちは駅で偶然、昔の先生に会いました。"
+  },
+  {
+    "rank": 289,
+    "english": "put away",
+    "meanings": "片づける／しまう",
+    "example": "Please put away your toys after playing.",
+    "exampleJa": "遊んだ後は、おもちゃを片づけてください。"
+  },
+  {
+    "rank": 290,
+    "english": "in case (that) ...",
+    "meanings": "...する場合に備えて／...するといけないので",
+    "example": "Take an umbrella in case it rains.",
+    "exampleJa": "雨が降る場合に備えて傘を持っていきなさい。"
+  },
+  {
+    "rank": 291,
+    "english": "on behalf of 〜",
+    "meanings": "〜を代表して／〜に代わって",
+    "example": "I spoke on behalf of my team at the meeting.",
+    "exampleJa": "会議で、私はチームを代表して話しました。"
+  },
+  {
+    "rank": 292,
+    "english": "turn over",
+    "meanings": "ひっくり返す／（ページを）めくる／入れ替わる",
+    "example": "Please turn over the page and read the next chapter.",
+    "exampleJa": "ページをめくって、次の章を読んでください。"
+  },
+  {
+    "rank": 293,
+    "english": "on the whole",
+    "meanings": "全体としては／概して",
+    "example": "On the whole, the project was a success.",
+    "exampleJa": "全体としては、そのプロジェクトは成功でした。"
+  },
+  {
+    "rank": 294,
+    "english": "come across 〜",
+    "meanings": "〜に偶然出会う／～をふと見つける",
+    "example": "I came across an interesting article online yesterday.",
+    "exampleJa": "昨日、オンラインで面白い記事を偶然見つけました。"
+  },
+  {
+    "rank": 295,
+    "english": "keep up",
+    "meanings": "続ける／遅れずについていく",
+    "example": "It's hard to keep up with the latest technology.",
+    "exampleJa": "最新の技術に遅れずについていくのは難しい。"
+  },
+  {
+    "rank": 296,
+    "english": "in place",
+    "meanings": "所定の位置に／きちんとして",
+    "example": "Make sure everything is in place before you leave.",
+    "exampleJa": "出かける前に、すべてが所定の位置にあるか確認してください。"
+  },
+  {
+    "rank": 297,
+    "english": "spread out",
+    "meanings": "広がる／広げる",
+    "example": "The map was spread out on the table.",
+    "exampleJa": "地図がテーブルの上に広げられていた。"
+  },
+  {
+    "rank": 298,
+    "english": "now that ...",
+    "meanings": "今は...なので／...である以上",
+    "example": "Now that I'm free, I can help you.",
+    "exampleJa": "今は手が空いたので、あなたを手伝えます。"
+  },
+  {
+    "rank": 299,
+    "english": "be familiar with 〜",
+    "meanings": "〜をよく知っている／〜に詳しい",
+    "example": "Are you familiar with this new software?",
+    "exampleJa": "この新しいソフトウェアに詳しいですか？"
+  },
+  {
+    "rank": 300,
+    "english": "look over",
+    "meanings": "ざっと目を通す／見て調べる",
+    "example": "I need to look over this report before the meeting.",
+    "exampleJa": "会議の前に、このレポートにざっと目を通す必要があります。"
+  },
+  {
+    "rank": 301,
+    "english": "at most",
+    "meanings": "せいぜい／多くても",
+    "example": "It will take two hours at most to finish this task.",
+    "exampleJa": "この課題を終えるのに、せいぜい2時間かかるだろう。"
+  },
+  {
+    "rank": 302,
+    "english": "bring back",
+    "meanings": "持ち帰る／思い出させる",
+    "example": "This old song brings back many memories.",
+    "exampleJa": "この古い歌はたくさんの思い出を呼び戻す。"
+  },
+  {
+    "rank": 303,
+    "english": "ever since",
+    "meanings": "それ以来ずっと",
+    "example": "She has loved cats ever since she was a child.",
+    "exampleJa": "彼女は子供の頃からずっと猫が好きだ。"
+  },
+  {
+    "rank": 304,
+    "english": "dig up",
+    "meanings": "掘り起こす／（情報などを）掘り出す",
+    "example": "They dug up ancient coins near the old temple.",
+    "exampleJa": "彼らは古い寺院の近くで古代の硬貨を掘り起こした。"
+  },
+  {
+    "rank": 305,
+    "english": "calm down",
+    "meanings": "落ち着く／落ち着かせる",
+    "example": "Please calm down and tell me what happened.",
+    "exampleJa": "落ち着いて、何が起こったのか教えてください。"
+  },
+  {
+    "rank": 306,
+    "english": "all the way",
+    "meanings": "ずっと／はるばる／最後まで",
+    "example": "He walked all the way from his house to the station.",
+    "exampleJa": "彼は家から駅までずっと歩いた。"
+  },
+  {
+    "rank": 307,
+    "english": "come down",
+    "meanings": "（雨などが）降ってくる／下がる／落ちてくる",
+    "example": "The heavy rain came down suddenly this morning.",
+    "exampleJa": "今朝、突然大雨が降ってきた。"
+  },
+  {
+    "rank": 308,
+    "english": "on top of 〜",
+    "meanings": "〜に加えて／〜の上に",
+    "example": "On top of being busy, I also have a cold.",
+    "exampleJa": "忙しい上に、風邪もひいている。"
+  },
+  {
+    "rank": 309,
+    "english": "in danger of 〜",
+    "meanings": "〜の危険があって",
+    "example": "Many wild animals are in danger of extinction.",
+    "exampleJa": "多くの野生動物が絶滅の危機に瀕している。"
+  },
+  {
+    "rank": 310,
+    "english": "leave out",
+    "meanings": "省く／抜かす／入れない",
+    "example": "Don't leave out any important details from your report.",
+    "exampleJa": "レポートから重要な詳細を何も省かないでください。"
+  },
+  {
+    "rank": 311,
+    "english": "make up",
+    "meanings": "作り上げる／構成する／仲直りする／化粧する",
+    "example": "They decided to make up after their argument.",
+    "exampleJa": "彼らは口論の後、仲直りすることに決めた。"
+  },
+  {
+    "rank": 312,
+    "english": "on purpose",
+    "meanings": "わざと／故意に",
+    "example": "He broke the vase on purpose, I think.",
+    "exampleJa": "彼はわざと花瓶を割ったんだと思う。"
+  },
+  {
+    "rank": 313,
+    "english": "for fun",
+    "meanings": "遊びで／おもしろ半分に",
+    "example": "We played cards for fun after dinner.",
+    "exampleJa": "夕食後、遊びでトランプをした。"
+  },
+  {
+    "rank": 314,
+    "english": "rule out",
+    "meanings": "除外する／可能性を排除する",
+    "example": "We cannot rule out the possibility of rain tomorrow.",
+    "exampleJa": "明日の雨の可能性を排除することはできない。"
+  },
+  {
+    "rank": 315,
+    "english": "dispose of 〜",
+    "meanings": "〜を処分する／始末する",
+    "example": "You should dispose of old batteries properly.",
+    "exampleJa": "古い電池は適切に処分すべきだ。"
+  },
+  {
+    "rank": 316,
+    "english": "for a change",
+    "meanings": "気分転換に／いつもと違って",
+    "example": "Let's eat out for a change tonight.",
+    "exampleJa": "今夜は気分転換に外食しよう。"
+  },
+  {
+    "rank": 317,
+    "english": "read through",
+    "meanings": "通して読む／一通り読む",
+    "example": "Please read through this document carefully.",
+    "exampleJa": "この書類に一通り目を通してください。"
+  },
+  {
+    "rank": 318,
+    "english": "act on 〜",
+    "meanings": "〜に基づいて行動する／〜に作用する",
+    "example": "We must act on the urgent warning from the police.",
+    "exampleJa": "私たちは警察からの緊急警告に基づいて行動しなければならない。"
+  },
+  {
+    "rank": 319,
+    "english": "wear out",
+    "meanings": "すり減る／使い古す／疲れ果てさせる",
+    "example": "My old shoes are starting to wear out.",
+    "exampleJa": "私の古い靴はすり減り始めている。"
+  },
+  {
+    "rank": 320,
+    "english": "at the sight of 〜",
+    "meanings": "〜を見て／〜を見たとたん",
+    "example": "She cried at the sight of her lost dog.",
+    "exampleJa": "彼女は迷子になった犬を見て泣いた。"
+  },
+  {
+    "rank": 321,
+    "english": "put off",
+    "meanings": "延期する／やる気をなくさせる",
+    "example": "Don't put off your homework until the last minute.",
+    "exampleJa": "宿題を最後の最後まで延期してはいけない。"
+  },
+  {
+    "rank": 322,
+    "english": "out of place",
+    "meanings": "場違いで／違和感がある",
+    "example": "He felt a little out of place at the party.",
+    "exampleJa": "彼はパーティーで少し場違いだと感じた。"
+  },
+  {
+    "rank": 323,
+    "english": "tell A from B",
+    "meanings": "AとBを見分ける／区別する",
+    "example": "I can't tell the real painting from the copy.",
+    "exampleJa": "本物の絵とコピーを見分けるのは難しい。"
+  },
+  {
+    "rank": 324,
+    "english": "change one's mind",
+    "meanings": "気が変わる／考えを変える",
+    "example": "He changed his mind and decided to stay home.",
+    "exampleJa": "彼は気が変わり、家にいることに決めた。"
+  },
+  {
+    "rank": 325,
+    "english": "be engaged to 〜",
+    "meanings": "〜と婚約している",
+    "example": "My sister is engaged to a kind man.",
+    "exampleJa": "私の姉は親切な男性と婚約している。"
+  },
+  {
+    "rank": 326,
+    "english": "to the point",
+    "meanings": "要領を得た／的を射た",
+    "example": "His explanation was short and to the point.",
+    "exampleJa": "彼の説明は短く、要領を得ていた。"
+  },
+  {
+    "rank": 327,
+    "english": "in the air",
+    "meanings": "空中に／（うわさ・期待などが）広まって",
+    "example": "Excitement was in the air before the festival.",
+    "exampleJa": "祭りの前は、興奮が広まっていた。"
+  },
+  {
+    "rank": 328,
+    "english": "switch off",
+    "meanings": "（スイッチを切って）消す",
+    "example": "Please switch off the lights when you leave.",
+    "exampleJa": "立ち去るときは、電気を消してください。"
+  },
+  {
+    "rank": 329,
+    "english": "drop by (~)",
+    "meanings": "（〜に）ちょっと立ち寄る",
+    "example": "I will drop by your office tomorrow.",
+    "exampleJa": "明日、あなたのオフィスにちょっと立ち寄ります。"
+  },
+  {
+    "rank": 330,
+    "english": "in trouble",
+    "meanings": "困って／面倒なことになって",
+    "example": "He was in trouble because he lost his wallet.",
+    "exampleJa": "彼は財布をなくしたので困っていた。"
+  },
+  {
+    "rank": 331,
+    "english": "turn away",
+    "meanings": "背ける／追い返す",
+    "example": "She had to turn away from the sad scene.",
+    "exampleJa": "彼女はその悲しい光景から目を背けなければならなかった。"
+  },
+  {
+    "rank": 332,
+    "english": "fold up",
+    "meanings": "折りたたむ",
+    "example": "Can you help me fold up these clothes?",
+    "exampleJa": "これらの服をたたむのを手伝ってくれますか？"
+  },
+  {
+    "rank": 333,
+    "english": "make sure (that) ...",
+    "meanings": "...であることを確かめる／必ず...する",
+    "example": "Please make sure that the door is locked.",
+    "exampleJa": "ドアが施錠されていることを確かめてください。"
+  },
+  {
+    "rank": 334,
+    "english": "carry out",
+    "meanings": "実行する／行う",
+    "example": "We will carry out the plan next week.",
+    "exampleJa": "私たちは来週その計画を実行します。"
+  },
+  {
+    "rank": 335,
+    "english": "on the other hand",
+    "meanings": "一方で",
+    "example": "This car is cheap; on the other hand, it uses a lot of gas.",
+    "exampleJa": "この車は安い。一方で、ガソリンをたくさん使う。"
+  },
+  {
+    "rank": 336,
+    "english": "suffer from ~",
+    "meanings": "〜で苦しむ／〜に悩む",
+    "example": "Many people suffer from allergies in spring.",
+    "exampleJa": "春には多くの人がアレルギーに悩まされる。"
+  },
+  {
+    "rank": 337,
+    "english": "over time",
+    "meanings": "時間とともに／やがて",
+    "example": "His skills improved greatly over time.",
+    "exampleJa": "彼のスキルは時間とともに大いに向上した。"
+  },
+  {
+    "rank": 338,
+    "english": "result in ~",
+    "meanings": "結果として〜になる／〜という結果を招く",
+    "example": "Lack of sleep can result in poor concentration.",
+    "exampleJa": "睡眠不足は集中力低下につながることがある。"
+  },
+  {
+    "rank": 339,
+    "english": "based on ~",
+    "meanings": "〜に基づいて",
+    "example": "This movie is based on a true story.",
+    "exampleJa": "この映画は実話に基づいています。"
+  },
+  {
+    "rank": 340,
+    "english": "deal with ~",
+    "meanings": "〜を扱う／〜に対処する",
+    "example": "We need to deal with this problem immediately.",
+    "exampleJa": "私たちはこの問題にすぐ対処する必要がある。"
+  },
+  {
+    "rank": 341,
+    "english": "depend on ~",
+    "meanings": "〜に頼る／〜しだいで決まる",
+    "example": "The success of the project depends on teamwork.",
+    "exampleJa": "そのプロジェクトの成功はチームワークしだいで決まる。"
+  },
+  {
+    "rank": 342,
+    "english": "due to ~",
+    "meanings": "〜が原因で／〜のために",
+    "example": "The flight was delayed due to bad weather.",
+    "exampleJa": "悪天候のためにフライトが遅れた。"
+  },
+  {
+    "rank": 343,
+    "english": "fill out",
+    "meanings": "（用紙に）書き込む／記入する",
+    "example": "Please fill out this form carefully.",
+    "exampleJa": "この用紙に慎重に記入してください。"
+  },
+  {
+    "rank": 344,
+    "english": "get used to ~",
+    "meanings": "〜に慣れる",
+    "example": "It took me a while to get used to the new job.",
+    "exampleJa": "その新しい仕事に慣れるまで少し時間がかかった。"
+  },
+  {
+    "rank": 345,
+    "english": "even when ...",
+    "meanings": "たとえ...の時でも",
+    "example": "He works hard even when he is tired.",
+    "exampleJa": "彼は疲れている時でも一生懸命働く。"
+  },
+  {
+    "rank": 346,
+    "english": "on average",
+    "meanings": "平均して／概して",
+    "example": "On average, students spend two hours studying daily.",
+    "exampleJa": "平均して、生徒たちは毎日2時間勉強する。"
+  },
+  {
+    "rank": 347,
+    "english": "sign up for ~",
+    "meanings": "〜に申し込む／登録する",
+    "example": "I decided to sign up for the English class.",
+    "exampleJa": "私はその英語のクラスに申し込むことにした。"
+  },
+  {
+    "rank": 348,
+    "english": "give out",
+    "meanings": "配る／出す（音・光など）／尽きる",
+    "example": "The teacher will give out the test papers.",
+    "exampleJa": "先生がテスト用紙を配ります。"
+  },
+  {
+    "rank": 349,
+    "english": "along with ~",
+    "meanings": "〜と一緒に／〜に加えて",
+    "example": "She went to the party along with her friends.",
+    "exampleJa": "彼女は友達と一緒にパーティーに行った。"
+  },
+  {
+    "rank": 350,
+    "english": "break up",
+    "meanings": "別れる／解散する／ばらばらにする",
+    "example": "The band decided to break up after the tour.",
+    "exampleJa": "そのバンドはツアーの後、解散することにした。"
+  },
+  {
+    "rank": 351,
+    "english": "consist of 〜",
+    "meanings": "〜から成る／〜で構成される",
+    "example": "Our team consists of five members.",
+    "exampleJa": "私たちのチームは5人のメンバーで構成されています。"
+  },
+  {
+    "rank": 352,
+    "english": "go ahead",
+    "meanings": "先へ進む／どうぞ（して下さい）",
+    "example": "If you're ready, please go ahead and start.",
+    "exampleJa": "準備ができたら、どうぞ始めてください。"
+  },
+  {
+    "rank": 353,
+    "english": "anything but 〜",
+    "meanings": "決して〜ではない／〜どころではない",
+    "example": "The movie was anything but boring; it was exciting!",
+    "exampleJa": "その映画は決して退屈ではなかった。むしろワクワクしたよ！"
+  },
+  {
+    "rank": 354,
+    "english": "be related to 〜",
+    "meanings": "〜と関係がある／〜に関連している",
+    "example": "His success is related to his hard work.",
+    "exampleJa": "彼の成功は彼の努力と関係があります。"
+  },
+  {
+    "rank": 355,
+    "english": "together with 〜",
+    "meanings": "〜と一緒に／〜に加えて",
+    "example": "She went to the park together with her friends.",
+    "exampleJa": "彼女は友達と一緒に公園へ行きました。"
+  },
+  {
+    "rank": 356,
+    "english": "believe in 〜",
+    "meanings": "〜の存在（正しさ）を信じる／〜を信頼する",
+    "example": "I believe in your ability to solve this problem.",
+    "exampleJa": "私はあなたがこの問題を解決する能力を信じています。"
+  },
+  {
+    "rank": 357,
+    "english": "be aware of 〜",
+    "meanings": "〜に気づいている／〜を意識している",
+    "example": "We should be aware of environmental issues.",
+    "exampleJa": "私たちは環境問題に気づいているべきです。"
+  },
+  {
+    "rank": 358,
+    "english": "take advantage of 〜",
+    "meanings": "〜を利用する／～につけ込む",
+    "example": "You should take advantage of this special offer.",
+    "exampleJa": "この特別提供を利用すべきです。"
+  },
+  {
+    "rank": 359,
+    "english": "in return",
+    "meanings": "お返しに／その代わりに",
+    "example": "He helped me, and I helped him in return.",
+    "exampleJa": "彼が私を助けてくれたので、お返しに私も彼を助けました。"
+  },
+  {
+    "rank": 360,
+    "english": "major in 〜",
+    "meanings": "〜を専攻する",
+    "example": "She plans to major in economics at university.",
+    "exampleJa": "彼女は大学で経済学を専攻する予定です。"
+  },
+  {
+    "rank": 361,
+    "english": "before long",
+    "meanings": "まもなく／やがて",
+    "example": "The train will arrive before long.",
+    "exampleJa": "まもなく電車が到着するでしょう。"
+  },
+  {
+    "rank": 362,
+    "english": "back up",
+    "meanings": "後押しする／バックアップを取る",
+    "example": "You should back up your important files regularly.",
+    "exampleJa": "重要なファイルは定期的にバックアップを取るべきです。"
+  },
+  {
+    "rank": 363,
+    "english": "in the hope of doing",
+    "meanings": "〜することを期待して／望んで",
+    "example": "He studied hard in the hope of passing the exam.",
+    "exampleJa": "彼は試験に合格することを期待して一生懸命勉強しました。"
+  },
+  {
+    "rank": 364,
+    "english": "run out",
+    "meanings": "尽きる／なくなる",
+    "example": "We need to buy milk before it runs out.",
+    "exampleJa": "牛乳がなくなる前に買っておく必要があります。"
+  },
+  {
+    "rank": 365,
+    "english": "in time for 〜",
+    "meanings": "〜に間に合って",
+    "example": "We arrived at the station in time for the train.",
+    "exampleJa": "私たちは電車に間に合うように駅に着きました。"
+  },
+  {
+    "rank": 366,
+    "english": "look through 〜",
+    "meanings": "〜にざっと目を通す／〜を通して見る",
+    "example": "Please look through this report before the meeting.",
+    "exampleJa": "会議の前にこの報告書にざっと目を通してください。"
+  },
+  {
+    "rank": 367,
+    "english": "go on",
+    "meanings": "続く／続ける",
+    "example": "The rain will go on all day long.",
+    "exampleJa": "雨は一日中降り続くでしょう。"
+  },
+  {
+    "rank": 368,
+    "english": "look up",
+    "meanings": "（調べて）探す／（状況が）よくなる",
+    "example": "I need to look up this word in the dictionary.",
+    "exampleJa": "辞書でこの単語を調べる必要があります。"
+  },
+  {
+    "rank": 369,
+    "english": "dry out",
+    "meanings": "乾ききる／乾かす",
+    "example": "The clothes need to dry out in the sun.",
+    "exampleJa": "その服は日光で乾かす必要があります。"
+  },
+  {
+    "rank": 370,
+    "english": "save up",
+    "meanings": "貯金する／貯める",
+    "example": "I want to save up money for a new car.",
+    "exampleJa": "新しい車のために貯金したいです。"
+  },
+  {
+    "rank": 371,
+    "english": "above all",
+    "meanings": "なかでもとりわけ／とくに",
+    "example": "Above all, you must be honest with yourself.",
+    "exampleJa": "なかでもとりわけ、自分自身に正直でなければなりません。"
+  },
+  {
+    "rank": 372,
+    "english": "check in",
+    "meanings": "（ホテル・空港などで）チェックインする",
+    "example": "We need to check in at the hotel by 3 PM.",
+    "exampleJa": "午後3時までにホテルでチェックインする必要があります。"
+  },
+  {
+    "rank": 373,
+    "english": "speak up",
+    "meanings": "はっきり話す／意見をはっきり言う",
+    "example": "Please speak up; I can't hear you clearly.",
+    "exampleJa": "はっきり話してください。よく聞こえません。"
+  },
+  {
+    "rank": 374,
+    "english": "in short",
+    "meanings": "要するに／一言で言えば",
+    "example": "In short, we need to work harder to achieve our goal.",
+    "exampleJa": "要するに、目標達成のためにもっと努力する必要があります。"
+  },
+  {
+    "rank": 375,
+    "english": "for long",
+    "meanings": "長い間",
+    "example": "I haven't seen him for long.",
+    "exampleJa": "長い間彼に会っていません。"
+  },
+  {
+    "rank": 376,
+    "english": "give in",
+    "meanings": "屈する／譲る／提出する",
+    "example": "He didn't want to give in to their unfair demands.",
+    "exampleJa": "彼は彼らの不公平な要求に屈したくなかった。"
+  },
+  {
+    "rank": 377,
+    "english": "catch up with 〜",
+    "meanings": "〜に追いつく",
+    "example": "I need to study hard to catch up with my classmates.",
+    "exampleJa": "クラスメイトに追いつくために一生懸命勉強する必要がある。"
+  },
+  {
+    "rank": 378,
+    "english": "in fashion",
+    "meanings": "流行している／はやっている",
+    "example": "That style of shoes is really in fashion now.",
+    "exampleJa": "その靴のスタイルは今とても流行している。"
+  },
+  {
+    "rank": 379,
+    "english": "at random",
+    "meanings": "無作為に／でたらめに",
+    "example": "The numbers were chosen at random for the lottery.",
+    "exampleJa": "その数字は宝くじのために無作為に選ばれた。"
+  },
+  {
+    "rank": 380,
+    "english": "in the long run",
+    "meanings": "長い目で見れば／結局は",
+    "example": "Eating healthy food is good for you in the long run.",
+    "exampleJa": "健康的な食事は長い目で見ればあなたのためになる。"
+  },
+  {
+    "rank": 381,
+    "english": "for short",
+    "meanings": "略して／短く言って",
+    "example": "My name is Alexander, but you can call me Alex for short.",
+    "exampleJa": "私の名前はアレクサンダーですが、略してアレックスと呼んでください。"
+  },
+  {
+    "rank": 382,
+    "english": "lie down",
+    "meanings": "横になる",
+    "example": "I felt tired, so I decided to lie down for a while.",
+    "exampleJa": "疲れたので、しばらく横になることにした。"
+  },
+  {
+    "rank": 383,
+    "english": "drop out",
+    "meanings": "（学校などを）やめる／途中で投げ出す",
+    "example": "He had to drop out of college due to financial problems.",
+    "exampleJa": "彼は経済的な問題で大学を中退しなければならなかった。"
+  },
+  {
+    "rank": 384,
+    "english": "break out",
+    "meanings": "（戦争・火事・病気などが）起こる／勃発する",
+    "example": "A fire broke out in the old building last night.",
+    "exampleJa": "昨夜、古い建物で火事が起こった。"
+  },
+  {
+    "rank": 385,
+    "english": "make fun of 〜",
+    "meanings": "〜をからかう／笑いものにする",
+    "example": "It's not nice to make fun of other people's mistakes.",
+    "exampleJa": "他人の間違いをからかうのは良くない。"
+  },
+  {
+    "rank": 386,
+    "english": "be engaged in 〜",
+    "meanings": "〜に従事している／〜に関わっている",
+    "example": "She is engaged in research on environmental issues.",
+    "exampleJa": "彼女は環境問題の研究に従事している。"
+  },
+  {
+    "rank": 387,
+    "english": "be worthy of 〜",
+    "meanings": "〜に値する／〜にふさわしい",
+    "example": "His efforts were worthy of a special award.",
+    "exampleJa": "彼の努力は特別賞に値した。"
+  },
+  {
+    "rank": 388,
+    "english": "be known to 〜",
+    "meanings": "〜に知られている",
+    "example": "The singer is known to many people around the world.",
+    "exampleJa": "その歌手は世界中の多くの人々に知られている。"
+  },
+  {
+    "rank": 389,
+    "english": "shake hands",
+    "meanings": "握手する",
+    "example": "They shook hands to show their agreement.",
+    "exampleJa": "彼らは同意を示すために握手した。"
+  },
+  {
+    "rank": 390,
+    "english": "drop in",
+    "meanings": "立ち寄る",
+    "example": "Please feel free to drop in anytime you are nearby.",
+    "exampleJa": "近くに来たら、いつでも気軽に立ち寄ってください。"
+  },
+  {
+    "rank": 391,
+    "english": "on demand",
+    "meanings": "要求があればいつでも／オンデマンドで",
+    "example": "You can watch movies on demand from your home.",
+    "exampleJa": "自宅からオンデマンドで映画を視聴できます。"
+  },
+  {
+    "rank": 392,
+    "english": "in a row",
+    "meanings": "連続して／一列に",
+    "example": "Our team won three games in a row.",
+    "exampleJa": "私たちのチームは3試合連続で勝利した。"
+  },
+  {
+    "rank": 393,
+    "english": "be typical of 〜",
+    "meanings": "〜に典型的である／〜らしい",
+    "example": "His kindness is typical of a good leader.",
+    "exampleJa": "彼の親切さは良きリーダーに典型的なものだ。"
+  },
+  {
+    "rank": 394,
+    "english": "hang up",
+    "meanings": "切る（電話を）／掛ける（服・絵などを）",
+    "example": "I had to hang up the phone quickly.",
+    "exampleJa": "私は急いで電話を切らなければならなかった。"
+  },
+  {
+    "rank": 395,
+    "english": "stop A from doing",
+    "meanings": "Aが〜するのを妨げる",
+    "example": "The heavy rain stopped us from going outside.",
+    "exampleJa": "激しい雨が私たちが外出するのを妨げた。"
+  },
+  {
+    "rank": 396,
+    "english": "come to light",
+    "meanings": "明るみに出る／発覚する",
+    "example": "The truth about the accident finally came to light.",
+    "exampleJa": "事故の真相がついに明るみに出た。"
+  },
+  {
+    "rank": 397,
+    "english": "owing to 〜",
+    "meanings": "〜のために／〜が原因で",
+    "example": "Owing to the snow, the school was closed today.",
+    "exampleJa": "雪のために、学校は今日閉鎖された。"
+  },
+  {
+    "rank": 398,
+    "english": "for certain",
+    "meanings": "確かに／はっきりと",
+    "example": "I can't say for certain when he will arrive.",
+    "exampleJa": "彼がいつ到着するかは確かには言えない。"
+  },
+  {
+    "rank": 399,
+    "english": "long for 〜",
+    "meanings": "〜を切望する／恋しく思う",
+    "example": "She began to long for her hometown after a long trip.",
+    "exampleJa": "彼女は長い旅の後、故郷を切望し始めた。"
+  },
+  {
+    "rank": 400,
+    "english": "make one's way",
+    "meanings": "進む／苦労しながら進む",
+    "example": "We had to make our way through the thick forest.",
+    "exampleJa": "私たちは鬱蒼とした森の中を進まなければならなかった。"
+  },
+  {
+    "rank": 401,
+    "english": "pull off",
+    "meanings": "うまくやってのける／（服などを）脱ぐ／引きはがす",
+    "example": "She managed to pull off the presentation perfectly.",
+    "exampleJa": "彼女はそのプレゼンテーションを完璧にやり遂げた。"
+  },
+  {
+    "rank": 402,
+    "english": "allow A to do",
+    "meanings": "Aが〜するのを許す／可能にする",
+    "example": "Our teacher allowed us to use calculators for the test.",
+    "exampleJa": "先生は私たちがテストで電卓を使うのを許してくれた。"
+  },
+  {
+    "rank": 403,
+    "english": "used to do",
+    "meanings": "以前はよく〜していた／昔は〜だった",
+    "example": "I used to play soccer every day when I was a child.",
+    "exampleJa": "私は子供の頃、毎日サッカーをしていました。"
+  },
+  {
+    "rank": 404,
+    "english": "in order to do",
+    "meanings": "〜するために",
+    "example": "He studies hard in order to pass the exam next month.",
+    "exampleJa": "彼は来月の試験に合格するために一生懸命勉強する。"
+  },
+  {
+    "rank": 405,
+    "english": "come up with 〜",
+    "meanings": "〜を思いつく／〜を考え出す",
+    "example": "We need to come up with a new idea for the project.",
+    "exampleJa": "私たちはそのプロジェクトのために新しいアイデアを思いつく必要がある。"
+  },
+  {
+    "rank": 406,
+    "english": "not only A, but (also) B",
+    "meanings": "AだけでなくBも",
+    "example": "She is not only smart but also very kind to everyone.",
+    "exampleJa": "彼女は賢いだけでなく、みんなにとても親切だ。"
+  },
+  {
+    "rank": 407,
+    "english": "be likely to do",
+    "meanings": "〜しそうだ／〜する可能性が高い",
+    "example": "It is likely to rain tomorrow, so take an umbrella.",
+    "exampleJa": "明日は雨が降りそうなので、傘を持って行ってください。"
+  },
+  {
+    "rank": 408,
+    "english": "lead to 〜",
+    "meanings": "〜につながる／〜を引き起こす",
+    "example": "Lack of sleep can lead to poor performance at school.",
+    "exampleJa": "睡眠不足は学校での成績不振につながることがある。"
+  },
+  {
+    "rank": 409,
+    "english": "bring down",
+    "meanings": "倒す／減らす／（政府などを）打倒する",
+    "example": "We must bring down our energy consumption to save the planet.",
+    "exampleJa": "私たちは地球を救うためにエネルギー消費量を減らさなければならない。"
+  },
+  {
+    "rank": 410,
+    "english": "no longer",
+    "meanings": "もはや〜ない",
+    "example": "He no longer lives here; he moved to another city.",
+    "exampleJa": "彼はもうここには住んでいない。別の街へ引っ越した。"
+  },
+  {
+    "rank": 411,
+    "english": "let A do",
+    "meanings": "Aに〜させる（許す）",
+    "example": "My parents let me go to the concert with my friends.",
+    "exampleJa": "両親は私が友達とコンサートに行くのを許してくれた。"
+  },
+  {
+    "rank": 412,
+    "english": "prepare for 〜",
+    "meanings": "〜に備える／準備する",
+    "example": "We need to prepare for the upcoming typhoon carefully.",
+    "exampleJa": "私たちは来るべき台風に注意深く備える必要がある。"
+  },
+  {
+    "rank": 413,
+    "english": "help A do",
+    "meanings": "Aが〜するのを助ける",
+    "example": "Can you help me carry these heavy boxes upstairs?",
+    "exampleJa": "これらの重い箱を2階に運ぶのを手伝ってくれませんか？"
+  },
+  {
+    "rank": 414,
+    "english": "in addition",
+    "meanings": "その上／加えて",
+    "example": "The food was delicious; in addition, the service was excellent.",
+    "exampleJa": "料理は美味しかった。その上、サービスも素晴らしかった。"
+  },
+  {
+    "rank": 415,
+    "english": "a number of 〜",
+    "meanings": "いくつかの〜／多数の〜",
+    "example": "A number of students participated in the volunteer activity.",
+    "exampleJa": "多数の生徒がボランティア活動に参加した。"
+  },
+  {
+    "rank": 416,
+    "english": "prevent A from doing",
+    "meanings": "Aが〜するのを妨げる／防ぐ",
+    "example": "The rain prevented us from going to the beach yesterday.",
+    "exampleJa": "昨日、雨が降ったせいで私たちはビーチに行けなかった。"
+  },
+  {
+    "rank": 417,
+    "english": "so far",
+    "meanings": "これまでのところ／今のところ",
+    "example": "So far, we have finished three chapters of the textbook.",
+    "exampleJa": "これまでのところ、私たちは教科書の3章を終えた。"
+  },
+  {
+    "rank": 418,
+    "english": "instead of 〜",
+    "meanings": "〜の代わりに",
+    "example": "Let's eat pizza instead of sushi for dinner tonight.",
+    "exampleJa": "今夜の夕食は寿司の代わりにピザを食べよう。"
+  },
+  {
+    "rank": 419,
+    "english": "be sure to do",
+    "meanings": "きっと〜する／必ず〜するように",
+    "example": "Be sure to lock the door before you leave the house.",
+    "exampleJa": "家を出る前に必ずドアの鍵を閉めてください。"
+  },
+  {
+    "rank": 420,
+    "english": "turn A into B",
+    "meanings": "AをBに変える",
+    "example": "The magician can turn a simple card into a flower.",
+    "exampleJa": "そのマジシャンは、シンプルなカードを花に変えることができる。"
+  },
+  {
+    "rank": 421,
+    "english": "be supposed to do",
+    "meanings": "〜することになっている／〜すべきだとされている",
+    "example": "You are supposed to submit your report by Friday afternoon.",
+    "exampleJa": "あなたは金曜日の午後までにレポートを提出することになっている。"
+  },
+  {
+    "rank": 422,
+    "english": "A as well as B",
+    "meanings": "BだけでなくAも／Bと同様にAも",
+    "example": "She speaks French as well as English fluently.",
+    "exampleJa": "彼女は英語だけでなくフランス語も流暢に話す。"
+  },
+  {
+    "rank": 423,
+    "english": "a variety of 〜",
+    "meanings": "さまざまな〜／いろいろな〜",
+    "example": "Our school offers a variety of clubs for students.",
+    "exampleJa": "私たちの学校は生徒のために様々な部活動を提供している。"
+  },
+  {
+    "rank": 424,
+    "english": "get rid of 〜",
+    "meanings": "〜を取り除く／捨てる／処分する",
+    "example": "We need to get rid of old furniture from the room.",
+    "exampleJa": "私たちは部屋から古い家具を処分する必要がある。"
+  },
+  {
+    "rank": 425,
+    "english": "find it 〜 to do",
+    "meanings": "〜だと感じる／〜だと思う（to以下をすることが）",
+    "example": "I found it difficult to understand his complex explanation.",
+    "exampleJa": "私は彼の複雑な説明を理解するのが難しいと感じた。"
+  },
+  {
+    "rank": 426,
+    "english": "as ~ as possible",
+    "meanings": "できるだけ〜／できる限り〜",
+    "example": "Please finish the report as soon as possible.",
+    "exampleJa": "できるだけ早くレポートを仕上げてください。"
+  },
+  {
+    "rank": 427,
+    "english": "seem to do",
+    "meanings": "〜のように思われる／〜らしい",
+    "example": "He seems to be tired after the long trip.",
+    "exampleJa": "彼は長い旅行の後で疲れているようだ。"
+  },
+  {
+    "rank": 428,
+    "english": "be concerned about ~",
+    "meanings": "〜を心配している／〜を気にかけている",
+    "example": "Many people are concerned about climate change.",
+    "exampleJa": "多くの人々が気候変動を心配している。"
+  },
+  {
+    "rank": 429,
+    "english": "provide A with B",
+    "meanings": "AにBを与える／提供する",
+    "example": "We provide students with books and materials.",
+    "exampleJa": "私たちは生徒たちに本と教材を提供します。"
+  },
+  {
+    "rank": 430,
+    "english": "take a look at ~",
+    "meanings": "〜を見る／ちょっと目を通す",
+    "example": "Can you take a look at this document?",
+    "exampleJa": "この書類をちょっと見てくれますか？"
+  },
+  {
+    "rank": 431,
+    "english": "give away",
+    "meanings": "ただであげる／（秘密などを）ばらす",
+    "example": "She decided to give away her old clothes.",
+    "exampleJa": "彼女は古い服をただであげることにした。"
+  },
+  {
+    "rank": 432,
+    "english": "break down",
+    "meanings": "故障する／壊れる／（気持ちが）崩れる",
+    "example": "My car broke down on the way to work.",
+    "exampleJa": "私の車は仕事に行く途中で故障した。"
+  },
+  {
+    "rank": 433,
+    "english": "have difficulty doing",
+    "meanings": "〜するのに苦労する",
+    "example": "He has difficulty understanding complex math problems.",
+    "exampleJa": "彼は複雑な数学の問題を理解するのに苦労している。"
+  },
+  {
+    "rank": 434,
+    "english": "set up",
+    "meanings": "設置する／準備する／立ち上げる",
+    "example": "They will set up a new store next month.",
+    "exampleJa": "彼らは来月、新しい店を立ち上げる予定だ。"
+  },
+  {
+    "rank": 435,
+    "english": "take place",
+    "meanings": "起こる／（行事が）行われる",
+    "example": "The concert will take place in the park.",
+    "exampleJa": "そのコンサートは公園で行われる。"
+  },
+  {
+    "rank": 436,
+    "english": "take up",
+    "meanings": "始める／（スペース・時間を）取る",
+    "example": "She wants to take up painting as a hobby.",
+    "exampleJa": "彼女は趣味として絵画を始めたいと思っている。"
+  },
+  {
+    "rank": 437,
+    "english": "That is why ...",
+    "meanings": "だから...だ／それが...の理由だ",
+    "example": "It rained all day. That is why I stayed home.",
+    "exampleJa": "一日中雨が降っていた。だから私は家にいたのだ。"
+  },
+  {
+    "rank": 438,
+    "english": "every time ...",
+    "meanings": "...するたびに",
+    "example": "Every time I visit Kyoto, I enjoy the temples.",
+    "exampleJa": "京都を訪れるたびに、私はお寺を楽しむ。"
+  },
+  {
+    "rank": 439,
+    "english": "as long as ...",
+    "meanings": "...である限り／...であるかぎりは",
+    "example": "You can borrow the book as long as you return it.",
+    "exampleJa": "返してくれる限り、その本を借りていいよ。"
+  },
+  {
+    "rank": 440,
+    "english": "turn in",
+    "meanings": "提出する／（口語）寝る",
+    "example": "Please remember to turn in your homework tomorrow.",
+    "exampleJa": "明日、宿題を提出するのを忘れないでください。"
+  },
+  {
+    "rank": 441,
+    "english": "plenty of ~",
+    "meanings": "たくさんの〜／十分な〜",
+    "example": "We have plenty of food for the party guests.",
+    "exampleJa": "パーティーの客のために十分な食べ物がある。"
+  },
+  {
+    "rank": 442,
+    "english": "sell out",
+    "meanings": "売り切れる／売り尽くす",
+    "example": "All the tickets for the show sold out quickly.",
+    "exampleJa": "そのショーのチケットはすべてすぐに売り切れた。"
+  },
+  {
+    "rank": 443,
+    "english": "It looks like ...",
+    "meanings": "...のように見える／...らしい",
+    "example": "It looks like it will rain later today.",
+    "exampleJa": "今日の午後、雨が降るようだ。"
+  },
+  {
+    "rank": 444,
+    "english": "in response to ~",
+    "meanings": "〜に応えて／〜への返答として",
+    "example": "She sent an email in response to his question.",
+    "exampleJa": "彼女は彼の質問に応えてメールを送った。"
+  },
+  {
+    "rank": 445,
+    "english": "in the end",
+    "meanings": "結局は／最後には",
+    "example": "We faced many challenges, but succeeded in the end.",
+    "exampleJa": "私たちは多くの課題に直面したが、結局は成功した。"
+  },
+  {
+    "rank": 446,
+    "english": "in reality",
+    "meanings": "実際には／現実には",
+    "example": "He seemed happy, but in reality, he was sad.",
+    "exampleJa": "彼は幸せそうに見えたが、実際には悲しかった。"
+  },
+  {
+    "rank": 447,
+    "english": "on one's own",
+    "meanings": "一人で／自力で／独立して",
+    "example": "She wants to live on her own after graduation.",
+    "exampleJa": "彼女は卒業後、一人で暮らしたいと思っている。"
+  },
+  {
+    "rank": 448,
+    "english": "run out of ~",
+    "meanings": "〜を使い果たす／〜がなくなる",
+    "example": "We might run out of milk soon.",
+    "exampleJa": "私たちはすぐに牛乳がなくなるかもしれない。"
+  },
+  {
+    "rank": 449,
+    "english": "hand out",
+    "meanings": "配る／配布する",
+    "example": "Volunteers will hand out flyers at the station.",
+    "exampleJa": "ボランティアが駅でチラシを配るだろう。"
+  },
+  {
+    "rank": 450,
+    "english": "figure out",
+    "meanings": "理解する／解決策を見つける／考え出す",
+    "example": "I need to figure out how to fix this computer.",
+    "exampleJa": "このコンピューターをどう直すか考え出す必要がある。"
+  },
+  {
+    "rank": 451,
+    "english": "not to mention 〜",
+    "meanings": "〜は言うまでもなく",
+    "example": "She is kind, not to mention smart.",
+    "exampleJa": "彼女は賢いのは言うまでもなく、親切だ。"
+  },
+  {
+    "rank": 452,
+    "english": "hand in",
+    "meanings": "提出する",
+    "example": "Students must hand in their homework by Friday.",
+    "exampleJa": "学生は金曜日までに宿題を提出しなければならない。"
+  },
+  {
+    "rank": 453,
+    "english": "be involved in 〜",
+    "meanings": "〜に関わっている／〜に巻き込まれている",
+    "example": "He is involved in many volunteer activities.",
+    "exampleJa": "彼は多くのボランティア活動に関わっている。"
+  },
+  {
+    "rank": 454,
+    "english": "in addition to 〜",
+    "meanings": "〜に加えて／〜だけでなく",
+    "example": "In addition to English, I study French.",
+    "exampleJa": "英語に加えて、私はフランス語を勉強している。"
+  },
+  {
+    "rank": 455,
+    "english": "come out",
+    "meanings": "出版される／出る／明らかになる",
+    "example": "Her new book will come out next month.",
+    "exampleJa": "彼女の新しい本は来月出版される。"
+  },
+  {
+    "rank": 456,
+    "english": "make it to 〜",
+    "meanings": "〜にたどり着く／〜に間に合う／〜に出席する",
+    "example": "I hope to make it to the meeting on time.",
+    "exampleJa": "私は時間通りに会議に間に合うことを願っている。"
+  },
+  {
+    "rank": 457,
+    "english": "cut down on 〜",
+    "meanings": "〜を減らす",
+    "example": "We should cut down on plastic use for the environment.",
+    "exampleJa": "環境のために、私たちはプラスチックの使用を減らすべきだ。"
+  },
+  {
+    "rank": 458,
+    "english": "send out",
+    "meanings": "送り出す／発する（メール・光・音など）",
+    "example": "The company will send out a newsletter next week.",
+    "exampleJa": "その会社は来週ニュースレターを送るだろう。"
+  },
+  {
+    "rank": 459,
+    "english": "check out",
+    "meanings": "調べる／（ホテルを）チェックアウトする／試してみる",
+    "example": "Let's check out this new cafe in town.",
+    "exampleJa": "町のこの新しいカフェを試してみよう。"
+  },
+  {
+    "rank": 460,
+    "english": "be willing to do",
+    "meanings": "進んで〜する／〜してもかまわない",
+    "example": "I am willing to help you with your project.",
+    "exampleJa": "私はあなたのプロジェクトを喜んでお手伝いします。"
+  },
+  {
+    "rank": 461,
+    "english": "live up to 〜",
+    "meanings": "〜に応える／〜にふさわしい行動をする",
+    "example": "He tried to live up to his parents' expectations.",
+    "exampleJa": "彼は両親の期待に応えようとした。"
+  },
+  {
+    "rank": 462,
+    "english": "take away",
+    "meanings": "取り去る／持ち帰りにする",
+    "example": "You can take away your meal if you want.",
+    "exampleJa": "望むなら、食事を持ち帰りにできるよ。"
+  },
+  {
+    "rank": 463,
+    "english": "look down on 〜",
+    "meanings": "〜を見下す／ばかにする",
+    "example": "You should never look down on others.",
+    "exampleJa": "他人を見下すべきではない。"
+  },
+  {
+    "rank": 464,
+    "english": "make do with 〜",
+    "meanings": "〜で間に合わせる／〜ですます",
+    "example": "We had to make do with instant noodles.",
+    "exampleJa": "私たちはインスタントラーメンで間に合わせなければならなかった。"
+  },
+  {
+    "rank": 465,
+    "english": "have A in common",
+    "meanings": "Aを共通して持っている／共通点がある",
+    "example": "My friend and I have many hobbies in common.",
+    "exampleJa": "私の友人と私には多くの共通の趣味がある。"
+  },
+  {
+    "rank": 466,
+    "english": "after all",
+    "meanings": "結局（のところ）／やはり",
+    "example": "She passed the exam after all.",
+    "exampleJa": "彼女は結局試験に合格した。"
+  },
+  {
+    "rank": 467,
+    "english": "put out",
+    "meanings": "消す（火・明かりなど）／出す・発行する",
+    "example": "Please put out the lights before you leave.",
+    "exampleJa": "出かける前に明かりを消してください。"
+  },
+  {
+    "rank": 468,
+    "english": "settle down",
+    "meanings": "落ち着く／腰を落ち着ける／身を固める",
+    "example": "After traveling, he wants to settle down in his hometown.",
+    "exampleJa": "旅行の後、彼は故郷に落ち着きたいと思っている。"
+  },
+  {
+    "rank": 469,
+    "english": "from now on",
+    "meanings": "これからは／今後ずっと",
+    "example": "From now on, I will study English every day.",
+    "exampleJa": "これからは、毎日英語を勉強します。"
+  },
+  {
+    "rank": 470,
+    "english": "go over 〜",
+    "meanings": "〜をよく調べる／復習する／見直す",
+    "example": "Let's go over the report once more.",
+    "exampleJa": "もう一度レポートを見直しましょう。"
+  },
+  {
+    "rank": 471,
+    "english": "bring in",
+    "meanings": "導入する／取り入れる／（収入を）もたらす",
+    "example": "This new system will bring in more profits.",
+    "exampleJa": "この新しいシステムはより多くの利益をもたらすだろう。"
+  },
+  {
+    "rank": 472,
+    "english": "be responsible for 〜",
+    "meanings": "〜に責任がある／〜の原因である",
+    "example": "He is responsible for managing the project.",
+    "exampleJa": "彼はそのプロジェクトの管理に責任がある。"
+  },
+  {
+    "rank": 473,
+    "english": "go into 〜",
+    "meanings": "〜の中に入る／〜を詳しく述べる",
+    "example": "I won't go into detail about the plan now.",
+    "exampleJa": "今、その計画について詳しく述べるつもりはない。"
+  },
+  {
+    "rank": 474,
+    "english": "in public",
+    "meanings": "人前で／公の場で",
+    "example": "He felt shy speaking in public.",
+    "exampleJa": "彼は人前で話すのが恥ずかしかった。"
+  },
+  {
+    "rank": 475,
+    "english": "and so on",
+    "meanings": "〜など／〜といった感じで（列挙の続き）",
+    "example": "We discussed the schedule, budget, and so on.",
+    "exampleJa": "私たちはスケジュール、予算などについて話し合った。"
+  },
+  {
+    "rank": 476,
+    "english": "in search of 〜",
+    "meanings": "〜を求めて／〜を探して",
+    "example": "Many young people go to the city in search of jobs.",
+    "exampleJa": "多くの若者が仕事を求めて都会へ行く。"
+  },
+  {
+    "rank": 477,
+    "english": "what is called 〜",
+    "meanings": "いわゆる〜",
+    "example": "AI is what is called artificial intelligence.",
+    "exampleJa": "AIはいわゆる人工知能です。"
+  },
+  {
+    "rank": 478,
+    "english": "be concerned with 〜",
+    "meanings": "〜に関係している／〜を扱っている",
+    "example": "This report is concerned with environmental issues.",
+    "exampleJa": "この報告書は環境問題に関係しています。"
+  },
+  {
+    "rank": 479,
+    "english": "watch out for 〜",
+    "meanings": "〜に気をつける／注意する",
+    "example": "Watch out for cars when you cross the street.",
+    "exampleJa": "通りを渡るときは車に注意してください。"
+  },
+  {
+    "rank": 480,
+    "english": "go along with 〜",
+    "meanings": "〜に同調する／〜に従う",
+    "example": "I will go along with your plan.",
+    "exampleJa": "私はあなたの計画に従います。"
+  },
+  {
+    "rank": 481,
+    "english": "a bunch of 〜",
+    "meanings": "たくさんの〜／一束の〜",
+    "example": "I bought a bunch of flowers for my mother.",
+    "exampleJa": "私は母のためにたくさんの花を買いました。"
+  },
+  {
+    "rank": 482,
+    "english": "in the first place",
+    "meanings": "そもそも／第一に",
+    "example": "Why did you come here in the first place?",
+    "exampleJa": "そもそも、なぜあなたはここに来たのですか？"
+  },
+  {
+    "rank": 483,
+    "english": "be sick of 〜",
+    "meanings": "〜にうんざりしている",
+    "example": "I'm sick of this rainy weather.",
+    "exampleJa": "この雨の天気にはうんざりしています。"
+  },
+  {
+    "rank": 484,
+    "english": "come about",
+    "meanings": "起こる／生じる",
+    "example": "How did this problem come about?",
+    "exampleJa": "この問題はどのようにして生じたのですか？"
+  },
+  {
+    "rank": 485,
+    "english": "in exchange for 〜",
+    "meanings": "〜と引き換えに／〜の代わりに",
+    "example": "He gave me a book in exchange for my old CD.",
+    "exampleJa": "彼は私の古いCDと引き換えに本をくれました。"
+  },
+  {
+    "rank": 486,
+    "english": "by the time ...",
+    "meanings": "...する頃までには／...する時までに",
+    "example": "By the time he arrived, the party had already started.",
+    "exampleJa": "彼が到着する頃までには、パーティーはすでに始まっていました。"
+  },
+  {
+    "rank": 487,
+    "english": "in general",
+    "meanings": "一般的に／概して",
+    "example": "In general, people want to live a happy life.",
+    "exampleJa": "一般的に、人々は幸せな人生を送りたいと思っています。"
+  },
+  {
+    "rank": 488,
+    "english": "not A but B",
+    "meanings": "AではなくB",
+    "example": "It was not red but blue.",
+    "exampleJa": "それは赤ではなく青でした。"
+  },
+  {
+    "rank": 489,
+    "english": "sit back",
+    "meanings": "何もせずに座っている／傍観する",
+    "example": "We cannot just sit back and do nothing.",
+    "exampleJa": "私たちはただ座って何もしないわけにはいきません。"
+  },
+  {
+    "rank": 490,
+    "english": "Would you mind 〜 ing?",
+    "meanings": "〜していただいてもよろしいですか（控えめ依頼）",
+    "example": "Would you mind opening the window?",
+    "exampleJa": "窓を開けていただいてもよろしいですか？"
+  },
+  {
+    "rank": 491,
+    "english": "Why not 〜?",
+    "meanings": "〜したら？／〜してはどう？",
+    "example": "It's a nice day. Why not go for a walk?",
+    "exampleJa": "良い天気だね。散歩に行ったらどう？"
+  },
+  {
+    "rank": 492,
+    "english": "it's on me",
+    "meanings": "私のおごりです",
+    "example": "Don't worry about the bill. It's on me tonight.",
+    "exampleJa": "お勘定の心配はいりません。今夜は私のおごりです。"
+  },
+  {
+    "rank": 493,
+    "english": "Would you be kind enough to 〜?",
+    "meanings": "〜していただけませんか（とても丁寧）",
+    "example": "Would you be kind enough to help me?",
+    "exampleJa": "私を助けていただけませんか？"
+  },
+  {
+    "rank": 494,
+    "english": "You deserve it",
+    "meanings": "それに値するよ／当然のごほうびだよ",
+    "example": "You worked hard, so you deserve a good rest.",
+    "exampleJa": "よく頑張ったね、だから当然のごほうびだよ。"
+  },
+  {
+    "rank": 495,
+    "english": "What became of 〜?",
+    "meanings": "〜はどうなったの？",
+    "example": "What became of your old car?",
+    "exampleJa": "あなたの古い車はどうなったの？"
+  },
+  {
+    "rank": 496,
+    "english": "To the best of my knowledge",
+    "meanings": "私の知る限りでは",
+    "example": "To the best of my knowledge, he is still working there.",
+    "exampleJa": "私の知る限りでは、彼はまだそこで働いています。"
+  },
+  {
+    "rank": 497,
+    "english": "I'm all ears",
+    "meanings": "ちゃんと聞いてるよ／ぜひ聞かせて",
+    "example": "Tell me your story. I'm all ears.",
+    "exampleJa": "あなたの話を聞かせて。ちゃんと聞いてるよ。"
+  },
+  {
+    "rank": 498,
+    "english": "don't hesitate to",
+    "meanings": "遠慮なく〜してください",
+    "example": "Please don't hesitate to ask questions.",
+    "exampleJa": "遠慮なく質問してください。"
+  },
+  {
+    "rank": 499,
+    "english": "So do I",
+    "meanings": "私もです",
+    "example": "I like sushi. So do I.",
+    "exampleJa": "私は寿司が好きです。私もです。"
+  },
+  {
+    "rank": 500,
+    "english": "It's none of your business",
+    "meanings": "あなたには関係ないことだよ",
+    "example": "My personal life is none of your business.",
+    "exampleJa": "私の私生活はあなたには関係ないことだよ。"
+  },
+  {
+    "rank": 501,
+    "english": "Take your time",
+    "meanings": "急がなくていいよ／ごゆっくり",
+    "example": "Take your time to finish the test.",
+    "exampleJa": "テストを終えるのに急がなくていいよ。"
+  },
+  {
+    "rank": 502,
+    "english": "Would you mind my ~ ing?",
+    "meanings": "私が〜してもよろしいですか",
+    "example": "Would you mind my opening the window?",
+    "exampleJa": "私が窓を開けてもよろしいですか？"
+  },
+  {
+    "rank": 503,
+    "english": "How come ~?",
+    "meanings": "どうして〜なの？（くだけた言い方）",
+    "example": "How come you didn't come to the party?",
+    "exampleJa": "どうしてパーティーに来なかったの？"
+  },
+  {
+    "rank": 504,
+    "english": "Why don't you ~?",
+    "meanings": "〜したらどう？／〜しませんか",
+    "example": "Why don't you try this new game?",
+    "exampleJa": "この新しいゲームを試してみませんか？"
+  },
+  {
+    "rank": 505,
+    "english": "What happened to ~?",
+    "meanings": "〜に何があったの？／〜どうしちゃったの？",
+    "example": "What happened to your bike? It looks broken.",
+    "exampleJa": "あなたの自転車、どうしちゃったの？壊れているみたいだけど。"
+  },
+  {
+    "rank": 506,
+    "english": "No problem",
+    "meanings": "問題ないよ／いいですよ",
+    "example": "\"Can you help me?\" \"No problem!\"",
+    "exampleJa": "「手伝ってくれる？」「いいですよ！」"
+  },
+  {
+    "rank": 507,
+    "english": "I'm sure",
+    "meanings": "きっとそうだよ／絶対そう",
+    "example": "I'm sure she will pass the exam.",
+    "exampleJa": "彼女はきっと試験に合格するよ。"
+  },
+  {
+    "rank": 508,
+    "english": "I guess",
+    "meanings": "たぶんね／そうかなあ",
+    "example": "\"Is it going to rain?\" \"I guess so.\"",
+    "exampleJa": "「雨が降るかな？」「たぶんね。」"
+  },
+  {
+    "rank": 509,
+    "english": "I was wondering if",
+    "meanings": "〜していただけるかと思いまして（控えめな前置き）",
+    "example": "I was wondering if you could help me.",
+    "exampleJa": "手伝っていただけると嬉しいのですが。"
+  },
+  {
+    "rank": 510,
+    "english": "I wonder",
+    "meanings": "〜かなあ／どうなんだろう",
+    "example": "I wonder if he will come to the meeting.",
+    "exampleJa": "彼が会議に来るかなあ。"
+  },
+  {
+    "rank": 511,
+    "english": "Why don't we ~?",
+    "meanings": "〜しようよ（お誘い）",
+    "example": "Why don't we go to the park this weekend?",
+    "exampleJa": "今週末、公園に行こうよ。"
+  },
+  {
+    "rank": 512,
+    "english": "I'd like ... to ~",
+    "meanings": "...に〜してほしい",
+    "example": "I'd like you to join our study group.",
+    "exampleJa": "あなたに私たちの勉強会に参加してほしいです。"
+  },
+  {
+    "rank": 513,
+    "english": "How about ~ ing?",
+    "meanings": "〜してはどう？",
+    "example": "How about eating out tonight?",
+    "exampleJa": "今夜、外食するのはどう？"
+  },
+  {
+    "rank": 514,
+    "english": "I wish I could",
+    "meanings": "できたらいいんだけど（でもできない）",
+    "example": "I wish I could fly like a bird.",
+    "exampleJa": "鳥のように飛べたらいいんだけどな。"
+  },
+  {
+    "rank": 515,
+    "english": "Can I ask you a favor?",
+    "meanings": "お願い事をしてもいい？",
+    "example": "Can I ask you a favor about my homework?",
+    "exampleJa": "宿題についてお願い事をしてもいい？"
+  },
+  {
+    "rank": 516,
+    "english": "It's a shame",
+    "meanings": "残念だ／気の毒だ",
+    "example": "It's a shame that you can't come.",
+    "exampleJa": "あなたが来られないのは残念だね。"
+  },
+  {
+    "rank": 517,
+    "english": "I have no idea",
+    "meanings": "全然わからない",
+    "example": "I have no idea how to solve this problem.",
+    "exampleJa": "この問題をどう解決したらいいか、全然わからない。"
+  },
+  {
+    "rank": 518,
+    "english": "Let's see",
+    "meanings": "ええとね／そうだなあ（考えながら）",
+    "example": "Let's see, what should we do next?",
+    "exampleJa": "ええとね、次に何をしようか？"
+  },
+  {
+    "rank": 519,
+    "english": "Guess what?",
+    "meanings": "ねえ聞いてよ／あのね（話の切り出し）",
+    "example": "Guess what? I got a new job!",
+    "exampleJa": "ねえ聞いてよ！新しい仕事が決まったんだ！"
+  },
+  {
+    "rank": 520,
+    "english": "It doesn't matter",
+    "meanings": "どっちでもいいよ／大したことじゃない",
+    "example": "It doesn't matter if you are late.",
+    "exampleJa": "遅れても大したことじゃないよ。"
+  },
+  {
+    "rank": 521,
+    "english": "I really appreciate it",
+    "meanings": "本当に感謝しています",
+    "example": "Thank you for your help. I really appreciate it.",
+    "exampleJa": "手伝ってくれてありがとう。本当に感謝しています。"
+  },
+  {
+    "rank": 522,
+    "english": "I'd be happy to",
+    "meanings": "喜んでそうします",
+    "example": "\"Could you help me?\" \"I'd be happy to!\"",
+    "exampleJa": "「手伝ってくれる？」「喜んでそうしますよ！」"
+  },
+  {
+    "rank": 523,
+    "english": "What do you say to ~ ing?",
+    "meanings": "〜するのはどう？",
+    "example": "What do you say to going for a walk?",
+    "exampleJa": "散歩に行くのはどう？"
+  },
+  {
+    "rank": 524,
+    "english": "If it's not too much trouble",
+    "meanings": "もしご面倒でなければ",
+    "example": "If it's not too much trouble, could you send me the file?",
+    "exampleJa": "もしご面倒でなければ、そのファイルを送っていただけますか？"
+  },
+  {
+    "rank": 525,
+    "english": "My apologies",
+    "meanings": "申し訳ありません",
+    "example": "My apologies for being late to the meeting.",
+    "exampleJa": "会議に遅れて申し訳ありません。"
+  },
+  {
+    "rank": 526,
+    "english": "How can I help you?",
+    "meanings": "どうなさいましたか？／何のお手伝いができるでしょうか",
+    "example": "A: You look troubled. How can I help you?",
+    "exampleJa": "A: 困っているようですね。何かお手伝いできますか？"
+  },
+  {
+    "rank": 527,
+    "english": "I'm sorry to hear that",
+    "meanings": "それはお気の毒に／残念ですね",
+    "example": "I'm sorry to hear that your pet is sick.",
+    "exampleJa": "あなたのペットが病気だと聞いて残念です。"
+  },
+  {
+    "rank": 528,
+    "english": "What's the matter?",
+    "meanings": "どうしたの？",
+    "example": "You look sad. What's the matter?",
+    "exampleJa": "悲しそうだね。どうしたの？"
+  },
+  {
+    "rank": 529,
+    "english": "I'll be sure to do that",
+    "meanings": "必ずそうします",
+    "example": "I'll be sure to tell him your message.",
+    "exampleJa": "彼の伝言を必ず伝えます。"
+  },
+  {
+    "rank": 530,
+    "english": "Could you possibly 〜?",
+    "meanings": "〜していただけませんか（かなり丁寧）",
+    "example": "Could you possibly send me the report by tomorrow?",
+    "exampleJa": "明日までにレポートを送っていただけませんか？"
+  },
+  {
+    "rank": 531,
+    "english": "Thank goodness",
+    "meanings": "よかった／助かった",
+    "example": "Thank goodness, the train arrived on time.",
+    "exampleJa": "よかった、電車が時間通りに着いた。"
+  },
+  {
+    "rank": 532,
+    "english": "What's wrong with 〜?",
+    "meanings": "〜のどこがいけないの？／〜はどうしたの？",
+    "example": "What's wrong with your computer? It's not working.",
+    "exampleJa": "あなたのコンピュータはどうしたの？動いていないよ。"
+  },
+  {
+    "rank": 533,
+    "english": "it wouldn't hurt to",
+    "meanings": "〜しても損はないよ／悪くはないよ",
+    "example": "It wouldn't hurt to ask your teacher for help.",
+    "exampleJa": "先生に助けを求めても損はないよ。"
+  },
+  {
+    "rank": 534,
+    "english": "Hold on a second",
+    "meanings": "ちょっと待って",
+    "example": "Hold on a second, I need to check my schedule.",
+    "exampleJa": "ちょっと待って、私のスケジュールを確認する必要があるんだ。"
+  },
+  {
+    "rank": 535,
+    "english": "I bet",
+    "meanings": "絶対そうだよ／きっとね",
+    "example": "I bet it will rain tomorrow. The sky is so cloudy.",
+    "exampleJa": "きっと明日は雨が降るよ。空はとても曇っている。"
+  },
+  {
+    "rank": 536,
+    "english": "I can't help it",
+    "meanings": "仕方ないんだ／どうにもならない",
+    "example": "I laugh at his jokes even when I shouldn't; I can't help it.",
+    "exampleJa": "笑うべきでない時でも彼のジョークで笑ってしまう、仕方ないんだ。"
+  },
+  {
+    "rank": 537,
+    "english": "Thank you for your cooperation",
+    "meanings": "ご協力ありがとうございます",
+    "example": "Thank you for your cooperation in cleaning the park.",
+    "exampleJa": "公園の清掃にご協力いただきありがとうございます。"
+  },
+  {
+    "rank": 538,
+    "english": "To tell you the truth",
+    "meanings": "実を言うと／本当のことを言うと",
+    "example": "To tell you the truth, I didn't enjoy the movie.",
+    "exampleJa": "実を言うと、私はその映画を楽しめなかった。"
+  },
+  {
+    "rank": 539,
+    "english": "I'd appreciate it if",
+    "meanings": "〜していただけるとありがたいです",
+    "example": "I'd appreciate it if you could help me with this project.",
+    "exampleJa": "このプロジェクトを手伝っていただけるとありがたいです。"
+  },
+  {
+    "rank": 540,
+    "english": "Can I have your name, please?",
+    "meanings": "お名前をうかがってもよろしいですか",
+    "example": "Excuse me, can I have your name, please?",
+    "exampleJa": "すみません、お名前をうかがってもよろしいですか？"
+  },
+  {
+    "rank": 541,
+    "english": "How much do I owe you?",
+    "meanings": "いくらお支払いすればいいですか",
+    "example": "After dinner, he asked, \"How much do I owe you?\"",
+    "exampleJa": "夕食後、彼は「いくらお支払いすればいいですか？」と尋ねた。"
+  },
+  {
+    "rank": 542,
+    "english": "Long time no see",
+    "meanings": "久しぶり！",
+    "example": "Long time no see, John! How have you been?",
+    "exampleJa": "ジョン、久しぶり！元気にしてた？"
+  },
+  {
+    "rank": 543,
+    "english": "I don't get it",
+    "meanings": "よくわからない／意味がわからない",
+    "example": "I don't get it. Can you explain this math problem again?",
+    "exampleJa": "よくわからないよ。この数学の問題をもう一度説明してくれる？"
+  },
+  {
+    "rank": 544,
+    "english": "That's nice of you",
+    "meanings": "ご親切に／優しいね",
+    "example": "You helped me carry my bags. That's nice of you.",
+    "exampleJa": "荷物を運ぶのを手伝ってくれたね。ご親切に。"
+  },
+  {
+    "rank": 545,
+    "english": "What a mess",
+    "meanings": "なんて散らかってるんだ／ひどい有様だ",
+    "example": "What a mess! We need to clean up this room.",
+    "exampleJa": "なんて散らかってるんだ！この部屋を片付けなくちゃ。"
+  },
+  {
+    "rank": 546,
+    "english": "I have something to tell you",
+    "meanings": "話したいことがあるんだ",
+    "example": "I have something to tell you about our new project.",
+    "exampleJa": "私たちの新しいプロジェクトについて話したいことがあるんだ。"
+  },
+  {
+    "rank": 547,
+    "english": "Would that be OK?",
+    "meanings": "それで大丈夫ですか？",
+    "example": "I can meet you at 3 PM. Would that be OK?",
+    "exampleJa": "午後3時に会えます。それで大丈夫ですか？"
+  },
+  {
+    "rank": 548,
+    "english": "No way",
+    "meanings": "ありえない／絶対イヤ",
+    "example": "No way! I can't believe he won the lottery.",
+    "exampleJa": "ありえない！彼が宝くじに当たったなんて信じられない。"
+  },
+  {
+    "rank": 549,
+    "english": "I'm pleased to",
+    "meanings": "〜できてうれしいです／光栄です",
+    "example": "I'm pleased to announce the winner of the competition.",
+    "exampleJa": "コンテストの優勝者を発表できてうれしいです。"
+  },
+  {
+    "rank": 550,
+    "english": "That would be a big help",
+    "meanings": "それは大助かりです",
+    "example": "If you carry this box for me, that would be a big help.",
+    "exampleJa": "この箱を運んでくれたら、それは大助かりです。"
+  },
+  {
+    "rank": 551,
+    "english": "This is ~ speaking",
+    "meanings": "こちら〜です（電話で名乗るとき）",
+    "example": "Hello, this is Ken speaking. May I help you?",
+    "exampleJa": "もしもし、ケンです。何かお手伝いできますか？"
+  },
+  {
+    "rank": 552,
+    "english": "What's on your mind?",
+    "meanings": "何を考えているの？／どうしたの？",
+    "example": "You look quiet. What's on your mind?",
+    "exampleJa": "静かだね。何を考えているの？"
+  },
+  {
+    "rank": 553,
+    "english": "may want to",
+    "meanings": "〜した方がいいかも（控えめな提案）",
+    "example": "You may want to check the weather before you go out.",
+    "exampleJa": "出かける前に天気を確認した方がいいかもしれません。"
+  },
+  {
+    "rank": 554,
+    "english": "What's up?",
+    "meanings": "どうした？／元気？／何かあった？",
+    "example": "Hey, what's up? You look happy today.",
+    "exampleJa": "やあ、どうしたの？今日は幸せそうだね。"
+  },
+  {
+    "rank": 555,
+    "english": "It was my pleasure",
+    "meanings": "どういたしまして（こちらこそ）",
+    "example": "Thank you for your help. It was my pleasure.",
+    "exampleJa": "手伝ってくれてありがとう。どういたしまして（こちらこそ）。"
+  },
+  {
+    "rank": 556,
+    "english": "By all means",
+    "meanings": "ぜひどうぞ／もちろん",
+    "example": "Can I use your pen? By all means.",
+    "exampleJa": "ペンを使ってもいいですか？ぜひどうぞ。"
+  },
+  {
+    "rank": 557,
+    "english": "Good for you!",
+    "meanings": "よかったね！／えらいね！",
+    "example": "I passed the exam! Good for you!",
+    "exampleJa": "試験に合格したよ！よかったね！"
+  },
+  {
+    "rank": 558,
+    "english": "That's no good",
+    "meanings": "それはよくないね／ダメだね",
+    "example": "My computer isn't working. That's no good.",
+    "exampleJa": "私のコンピューターが動かないんだ。それはよくないね。"
+  },
+  {
+    "rank": 559,
+    "english": "It depends",
+    "meanings": "場合によるね",
+    "example": "Will you come to the party? It depends on my schedule.",
+    "exampleJa": "パーティーに来ますか？私のスケジュールによるね。"
+  },
+  {
+    "rank": 560,
+    "english": "~ as well",
+    "meanings": "〜もまた／〜も同様に",
+    "example": "I like coffee, and I like tea as well.",
+    "exampleJa": "私はコーヒーが好きだし、お茶もまた好きです。"
+  }
+]
